@@ -43,9 +43,9 @@ int main()
 			k=1;
 	}
 	if(k==1)
-		cout<<"true"<<endl;
+		cout<<"true "<<endl;
 	else
-		cout<<"false"<<endl;
+		cout<<"false "<<endl;
 
 	return 0;
 }
