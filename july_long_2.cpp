@@ -64,6 +64,7 @@ int main()
 				b1++;
 			}
 		}
+
 		
 		if(a1>b1)
 			cout<<0<<" "<<a1<<endl;
