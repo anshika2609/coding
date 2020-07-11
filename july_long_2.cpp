@@ -41,6 +41,7 @@ int main()
 		ll a1=0,b1=0;
 		for(i=0;i<n;i++)
 		{
+			
 			cin>>x>>y;
 			ll a=0,b=0;
 			while(x!=0)
