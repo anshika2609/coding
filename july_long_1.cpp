@@ -44,7 +44,7 @@ int main()
 		for(i=1;i<n;i++)
 			sum+=(abs(a[i-1]-a[i])-1);
 
-		cout<<sum<<"\n";
+		cout<<sum;
 	
 	}
 	return 0;
