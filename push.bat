@@ -1,3 +1,4 @@
 git add .
-git commit -m "%% %DATE% - %TIME% %%"
+set command=git commit -m "%DATE%-%TIME%"
+%command%
 git push
