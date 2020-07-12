@@ -53,7 +53,7 @@ int main()
 				arr[i][j]='.';
 			}
 		}
-		if(rem>=1)
+		if(rem>=1  )
 		{
 			for(i=0;i<rem;i++)
 			{
