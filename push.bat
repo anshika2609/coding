@@ -1,3 +1,8 @@
 git add .
-git commit -m "new code"
+@echo off 
+D=echo %DATE%
+@echo off 
+T=echo %TIME%
+
+git commit -m "D T"
 git push
