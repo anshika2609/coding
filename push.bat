@@ -1,3 +1,3 @@
 git add .
-git commit -m "%% echo %DATE% %%"
+git commit -m "%% %DATE% %%"
 git push
