@@ -32,6 +32,47 @@ ll mul(ll x,ll y)
  
 int main()
 {	
-	cout<<"Hello Git\n";
+	ll t;
+	s(t);
+	while(t--)
+	{
+		ll n,i,j,q,rem;
+		s(n);
+		q=n/8;
+		rem=n%8;
+		char arr[8][8];
+		for(i=0;i<8;i++)
+			for(j=0;j<8;j++)
+				arr[i][j]='X';
+
+		for(i=0;i<q;i++)
+		{
+			for(j=0;j<8;j++)
+			{
+				arr[0][0]='O';
+				arr[i][j]='.';
+			}
+		}
+		if(rem>=1)
+		{
+			for(i=0;i<rem;i++)
+			{
+				arr[q][i]='.';
+				if(q==0)
+					arr[0][0]='O';
+			}
+		}
+		for(i=0;i<8;i++)
+		{
+			for(j=0;j<8;j++)
+			{
+				cout<<arr[i][j];
+			}
+			cout<<endl;
+		}
+
+
+	}
+		
 	return 0;
 }
