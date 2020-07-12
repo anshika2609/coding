@@ -1,5 +1,5 @@
 git add .
 
 
-git commit -m "date +"%D %T""
+git commit -m "$(date +"%D %T")"
 git push
