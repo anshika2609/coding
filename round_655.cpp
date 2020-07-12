@@ -58,3 +58,5 @@ int main()
 	}
 	return 0;
 }
+
+/////// https://codeforces.com/contest/1372/problem/A //////
