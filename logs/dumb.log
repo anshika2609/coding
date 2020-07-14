@@ -1,0 +1,2708 @@
+2020-07-14 02:48:13,526 : 
+---------------------------------------------------
+
+2020-07-14 02:48:13,526 : Runner Started 
+ 
+2020-07-14 02:48:17,695 : Sending request : 1
+2020-07-14 02:48:17,697 : Sending request : 2
+2020-07-14 02:48:17,697 : Sending request : 3
+2020-07-14 02:48:17,698 : Sending request : 4
+2020-07-14 02:48:17,699 : Sending request : 5
+2020-07-14 02:48:17,699 : Sending request : 6
+2020-07-14 02:48:17,700 : Sending request : 7
+2020-07-14 02:48:17,700 : Sending request : 8
+2020-07-14 02:48:17,701 : Sending request : 9
+2020-07-14 02:48:17,702 : Sending request : 10
+2020-07-14 02:48:17,702 : Sending request : 11
+2020-07-14 02:48:17,703 : Sending request : 12
+2020-07-14 02:48:17,704 : Sending request : 13
+2020-07-14 02:48:17,705 : Sending request : 14
+2020-07-14 02:48:17,706 : Sending request : 15
+2020-07-14 02:48:17,707 : Sending request : 16
+2020-07-14 02:48:17,710 : Sending request : 17
+2020-07-14 02:48:17,747 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,749 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,750 : Sending request : 18
+2020-07-14 02:48:17,751 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,752 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,755 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,760 : Sending request : 19
+2020-07-14 02:48:17,767 : Sending request : 20
+2020-07-14 02:48:17,768 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,769 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,770 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,770 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,771 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,771 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,771 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,771 : Sending request : 21
+2020-07-14 02:48:17,773 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,773 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,777 : Sending request : 22
+2020-07-14 02:48:17,777 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,780 : Sending request : 23
+2020-07-14 02:48:17,781 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,782 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,782 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,783 : Sending request : 24
+2020-07-14 02:48:17,783 : Sending request : 25
+2020-07-14 02:48:17,790 : Sending request : 26
+2020-07-14 02:48:17,795 : Sending request : 27
+2020-07-14 02:48:17,795 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,796 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,796 : Sending request : 28
+2020-07-14 02:48:17,797 : Sending request : 29
+2020-07-14 02:48:17,797 : Sending request : 30
+2020-07-14 02:48:17,799 : Sending request : 31
+2020-07-14 02:48:17,800 : Sending request : 32
+2020-07-14 02:48:17,803 : Sending request : 33
+2020-07-14 02:48:17,806 : Sending request : 34
+2020-07-14 02:48:17,808 : Sending request : 35
+2020-07-14 02:48:17,809 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,810 : Sending request : 36
+2020-07-14 02:48:17,815 : Sending request : 37
+2020-07-14 02:48:17,816 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,817 : Sending request : 38
+2020-07-14 02:48:17,818 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,818 : Sending request : 39
+2020-07-14 02:48:17,822 : Sending request : 40
+2020-07-14 02:48:17,825 : Sending request : 41
+2020-07-14 02:48:17,828 : Sending request : 42
+2020-07-14 02:48:17,831 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,833 : Sending request : 43
+2020-07-14 02:48:17,833 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,841 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,842 : Sending request : 44
+2020-07-14 02:48:17,844 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,849 : Sending request : 45
+2020-07-14 02:48:17,852 : Sending request : 46
+2020-07-14 02:48:17,856 : Sending request : 47
+2020-07-14 02:48:17,859 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,859 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,859 : Sending request : 48
+2020-07-14 02:48:17,861 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,861 : Sending request : 49
+2020-07-14 02:48:17,871 : Sending request : 50
+2020-07-14 02:48:17,871 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,873 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,876 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,884 : Sending request : 51
+2020-07-14 02:48:17,886 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,886 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,886 : Sending request : 52
+2020-07-14 02:48:17,889 : Sending request : 53
+2020-07-14 02:48:17,893 : Sending request : 54
+2020-07-14 02:48:17,895 : Sending request : 55
+2020-07-14 02:48:17,901 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,902 : Sending request : 56
+2020-07-14 02:48:17,903 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,905 : Sending request : 57
+2020-07-14 02:48:17,911 : Sending request : 58
+2020-07-14 02:48:17,919 : Sending request : 59
+2020-07-14 02:48:17,920 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,928 : Sending request : 60
+2020-07-14 02:48:17,928 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,930 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,936 : Sending request : 61
+2020-07-14 02:48:17,941 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,941 : Sending request : 62
+2020-07-14 02:48:17,943 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,944 : Sending request : 63
+2020-07-14 02:48:17,949 : Sending request : 64
+2020-07-14 02:48:17,952 : Sending request : 65
+2020-07-14 02:48:17,962 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,964 : Sending request : 66
+2020-07-14 02:48:17,966 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,967 : Sending request : 67
+2020-07-14 02:48:17,969 : Sending request : 68
+2020-07-14 02:48:17,970 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,971 : Sending request : 69
+2020-07-14 02:48:17,971 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,971 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,972 : Sending request : 70
+2020-07-14 02:48:17,973 : Sending request : 71
+2020-07-14 02:48:17,975 : Sending request : 72
+2020-07-14 02:48:17,976 : Sending request : 73
+2020-07-14 02:48:17,976 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,978 : Sending request : 74
+2020-07-14 02:48:17,982 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,982 : Sending request : 75
+2020-07-14 02:48:17,982 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:17,983 : Sending request : 76
+2020-07-14 02:48:17,985 : Sending request : 77
+2020-07-14 02:48:17,988 : Sending request : 78
+2020-07-14 02:48:17,999 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,001 : Sending request : 79
+2020-07-14 02:48:18,003 : Sending request : 80
+2020-07-14 02:48:18,006 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,008 : Sending request : 81
+2020-07-14 02:48:18,010 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,011 : Sending request : 82
+2020-07-14 02:48:18,011 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,017 : Sending request : 83
+2020-07-14 02:48:18,018 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,018 : Sending request : 84
+2020-07-14 02:48:18,020 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,021 : Sending request : 85
+2020-07-14 02:48:18,025 : Sending request : 86
+2020-07-14 02:48:18,027 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,027 : Sending request : 87
+2020-07-14 02:48:18,029 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,030 : Sending request : 88
+2020-07-14 02:48:18,030 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,032 : Sending request : 89
+2020-07-14 02:48:18,032 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,032 : Sending request : 90
+2020-07-14 02:48:18,034 : Sending request : 91
+2020-07-14 02:48:18,036 : Sending request : 92
+2020-07-14 02:48:18,037 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,038 : Sending request : 93
+2020-07-14 02:48:18,040 : Sending request : 94
+2020-07-14 02:48:18,040 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,042 : Sending request : 95
+2020-07-14 02:48:18,045 : Sending request : 96
+2020-07-14 02:48:18,046 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,048 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,048 : Sending request : 97
+2020-07-14 02:48:18,049 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,051 : Sending request : 98
+2020-07-14 02:48:18,051 : Sending request : 99
+2020-07-14 02:48:18,052 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,053 : Sending request : 100
+2020-07-14 02:48:18,056 : Sending request : 101
+2020-07-14 02:48:18,058 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,060 : Sending request : 102
+2020-07-14 02:48:18,062 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,062 : Sending request : 103
+2020-07-14 02:48:18,063 : Sending request : 104
+2020-07-14 02:48:18,063 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,064 : Sending request : 105
+2020-07-14 02:48:18,066 : Sending request : 106
+2020-07-14 02:48:18,068 : Sending request : 107
+2020-07-14 02:48:18,071 : Sending request : 108
+2020-07-14 02:48:18,073 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,074 : Sending request : 109
+2020-07-14 02:48:18,075 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,076 : Sending request : 110
+2020-07-14 02:48:18,076 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,077 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,078 : Sending request : 111
+2020-07-14 02:48:18,079 : Sending request : 112
+2020-07-14 02:48:18,081 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,082 : Sending request : 113
+2020-07-14 02:48:18,084 : Sending request : 114
+2020-07-14 02:48:18,086 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,086 : Sending request : 115
+2020-07-14 02:48:18,089 : Sending request : 116
+2020-07-14 02:48:18,090 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,093 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,093 : Sending request : 117
+2020-07-14 02:48:18,095 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,096 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,097 : Sending request : 118
+2020-07-14 02:48:18,099 : Sending request : 119
+2020-07-14 02:48:18,099 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,101 : Sending request : 120
+2020-07-14 02:48:18,105 : Sending request : 121
+2020-07-14 02:48:18,107 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,107 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,107 : Sending request : 122
+2020-07-14 02:48:18,108 : Sending request : 123
+2020-07-14 02:48:18,111 : Sending request : 124
+2020-07-14 02:48:18,112 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,123 : Sending request : 125
+2020-07-14 02:48:18,126 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,126 : Sending request : 126
+2020-07-14 02:48:18,131 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,132 : Sending request : 127
+2020-07-14 02:48:18,133 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,137 : Sending request : 128
+2020-07-14 02:48:18,139 : Sending request : 129
+2020-07-14 02:48:18,143 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,144 : Sending request : 130
+2020-07-14 02:48:18,149 : Sending request : 131
+2020-07-14 02:48:18,150 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,151 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,153 : Sending request : 132
+2020-07-14 02:48:18,155 : Sending request : 133
+2020-07-14 02:48:18,160 : Sending request : 134
+2020-07-14 02:48:18,168 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,169 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,172 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,172 : Sending request : 135
+2020-07-14 02:48:18,174 : Sending request : 136
+2020-07-14 02:48:18,175 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,177 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,181 : Sending request : 137
+2020-07-14 02:48:18,186 : Sending request : 138
+2020-07-14 02:48:18,187 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,187 : Sending request : 139
+2020-07-14 02:48:18,188 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,188 : Sending request : 140
+2020-07-14 02:48:18,191 : Sending request : 141
+2020-07-14 02:48:18,193 : Sending request : 142
+2020-07-14 02:48:18,203 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,204 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,204 : Sending request : 143
+2020-07-14 02:48:18,207 : Sending request : 144
+2020-07-14 02:48:18,209 : Sending request : 145
+2020-07-14 02:48:18,212 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,217 : Sending request : 146
+2020-07-14 02:48:18,221 : Sending request : 147
+2020-07-14 02:48:18,222 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,226 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,226 : Sending request : 148
+2020-07-14 02:48:18,229 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,233 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,239 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,239 : Sending request : 149
+2020-07-14 02:48:18,243 : Sending request : 150
+2020-07-14 02:48:18,252 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,254 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,256 : Sending request : 151
+2020-07-14 02:48:18,263 : Sending request : 152
+2020-07-14 02:48:18,267 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,268 : Sending request : 153
+2020-07-14 02:48:18,271 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,272 : Sending request : 154
+2020-07-14 02:48:18,275 : Sending request : 155
+2020-07-14 02:48:18,283 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,284 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,285 : Sending request : 156
+2020-07-14 02:48:18,288 : Sending request : 157
+2020-07-14 02:48:18,290 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,291 : Sending request : 158
+2020-07-14 02:48:18,301 : Sending request : 159
+2020-07-14 02:48:18,304 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,305 : Sending request : 160
+2020-07-14 02:48:18,306 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,307 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,307 : Sending request : 161
+2020-07-14 02:48:18,309 : Sending request : 162
+2020-07-14 02:48:18,317 : Sending request : 163
+2020-07-14 02:48:18,319 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,320 : Sending request : 164
+2020-07-14 02:48:18,321 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,323 : Sending request : 165
+2020-07-14 02:48:18,325 : Sending request : 166
+2020-07-14 02:48:18,332 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,333 : Sending request : 167
+2020-07-14 02:48:18,336 : Sending request : 168
+2020-07-14 02:48:18,339 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,339 : Sending request : 169
+2020-07-14 02:48:18,342 : Sending request : 170
+2020-07-14 02:48:18,348 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,351 : Sending request : 171
+2020-07-14 02:48:18,354 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,355 : Sending request : 172
+2020-07-14 02:48:18,355 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,358 : Sending request : 173
+2020-07-14 02:48:18,365 : Sending request : 174
+2020-07-14 02:48:18,370 : Sending request : 175
+2020-07-14 02:48:18,370 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,371 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,373 : Sending request : 176
+2020-07-14 02:48:18,376 : Sending request : 177
+2020-07-14 02:48:18,382 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,385 : Sending request : 178
+2020-07-14 02:48:18,386 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,388 : Sending request : 179
+2020-07-14 02:48:18,389 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,390 : Sending request : 180
+2020-07-14 02:48:18,396 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,399 : Sending request : 181
+2020-07-14 02:48:18,403 : Sending request : 182
+2020-07-14 02:48:18,406 : Sending request : 183
+2020-07-14 02:48:18,406 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,407 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,414 : Sending request : 184
+2020-07-14 02:48:18,415 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,417 : Sending request : 185
+2020-07-14 02:48:18,420 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,421 : Sending request : 186
+2020-07-14 02:48:18,423 : Sending request : 187
+2020-07-14 02:48:18,431 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,432 : Sending request : 188
+2020-07-14 02:48:18,433 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,434 : Sending request : 189
+2020-07-14 02:48:18,437 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,437 : Sending request : 190
+2020-07-14 02:48:18,439 : Sending request : 191
+2020-07-14 02:48:18,442 : Sending request : 192
+2020-07-14 02:48:18,448 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,449 : Sending request : 193
+2020-07-14 02:48:18,450 : Sending request : 194
+2020-07-14 02:48:18,451 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,455 : Sending request : 195
+2020-07-14 02:48:18,458 : Sending request : 196
+2020-07-14 02:48:18,465 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,466 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,466 : Sending request : 197
+2020-07-14 02:48:18,469 : Sending request : 198
+2020-07-14 02:48:18,470 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,472 : Sending request : 199
+2020-07-14 02:48:18,479 : Sending request : 200
+2020-07-14 02:48:18,481 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,487 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,487 : Sending request : 201
+2020-07-14 02:48:18,489 : Sending request : 202
+2020-07-14 02:48:18,490 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,496 : Sending request : 203
+2020-07-14 02:48:18,500 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,502 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,502 : Sending request : 204
+2020-07-14 02:48:18,503 : Sending request : 205
+2020-07-14 02:48:18,505 : Sending request : 206
+2020-07-14 02:48:18,505 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,508 : Sending request : 207
+2020-07-14 02:48:18,515 : Sending request : 208
+2020-07-14 02:48:18,515 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,517 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,517 : Sending request : 209
+2020-07-14 02:48:18,520 : Sending request : 210
+2020-07-14 02:48:18,522 : Sending request : 211
+2020-07-14 02:48:18,523 : Sending request : 212
+2020-07-14 02:48:18,523 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,525 : Sending request : 213
+2020-07-14 02:48:18,533 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,534 : Sending request : 214
+2020-07-14 02:48:18,535 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,540 : Sending request : 215
+2020-07-14 02:48:18,550 : Sending request : 216
+2020-07-14 02:48:18,553 : Sending request : 217
+2020-07-14 02:48:18,554 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,555 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,555 : Sending request : 218
+2020-07-14 02:48:18,556 : Sending request : 219
+2020-07-14 02:48:18,557 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,563 : Sending request : 220
+2020-07-14 02:48:18,568 : Sending request : 221
+2020-07-14 02:48:18,569 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,570 : Sending request : 222
+2020-07-14 02:48:18,571 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,572 : Sending request : 223
+2020-07-14 02:48:18,574 : Sending request : 224
+2020-07-14 02:48:18,575 : Sending request : 225
+2020-07-14 02:48:18,575 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,581 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,583 : Sending request : 226
+2020-07-14 02:48:18,584 : Sending request : 227
+2020-07-14 02:48:18,586 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,586 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,586 : Sending request : 228
+2020-07-14 02:48:18,587 : Sending request : 229
+2020-07-14 02:48:18,588 : Sending request : 230
+2020-07-14 02:48:18,588 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,590 : Sending request : 231
+2020-07-14 02:48:18,596 : Sending request : 232
+2020-07-14 02:48:18,599 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,599 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,599 : Sending request : 233
+2020-07-14 02:48:18,600 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,601 : Sending request : 234
+2020-07-14 02:48:18,602 : Sending request : 235
+2020-07-14 02:48:18,603 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,604 : Sending request : 236
+2020-07-14 02:48:18,605 : Sending request : 237
+2020-07-14 02:48:18,605 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,607 : Sending request : 238
+2020-07-14 02:48:18,607 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,611 : Sending request : 239
+2020-07-14 02:48:18,612 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,615 : Sending request : 240
+2020-07-14 02:48:18,616 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,617 : Sending request : 241
+2020-07-14 02:48:18,618 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,619 : Sending request : 242
+2020-07-14 02:48:18,620 : Sending request : 243
+2020-07-14 02:48:18,621 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,622 : Sending request : 244
+2020-07-14 02:48:18,622 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,624 : Sending request : 245
+2020-07-14 02:48:18,627 : Sending request : 246
+2020-07-14 02:48:18,628 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,631 : Sending request : 247
+2020-07-14 02:48:18,632 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,633 : Sending request : 248
+2020-07-14 02:48:18,633 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,634 : Sending request : 249
+2020-07-14 02:48:18,635 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,636 : Sending request : 250
+2020-07-14 02:48:18,638 : Sending request : 251
+2020-07-14 02:48:18,639 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,639 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,639 : Sending request : 252
+2020-07-14 02:48:18,641 : Sending request : 253
+2020-07-14 02:48:18,644 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,644 : Sending request : 254
+2020-07-14 02:48:18,648 : Sending request : 255
+2020-07-14 02:48:18,649 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,650 : Sending request : 256
+2020-07-14 02:48:18,651 : Sending request : 257
+2020-07-14 02:48:18,652 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,653 : Sending request : 258
+2020-07-14 02:48:18,655 : Sending request : 259
+2020-07-14 02:48:18,655 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,656 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,656 : Sending request : 260
+2020-07-14 02:48:18,657 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,660 : Sending request : 261
+2020-07-14 02:48:18,664 : Sending request : 262
+2020-07-14 02:48:18,666 : Sending request : 263
+2020-07-14 02:48:18,667 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,667 : Sending request : 264
+2020-07-14 02:48:18,667 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,669 : Sending request : 265
+2020-07-14 02:48:18,670 : Sending request : 266
+2020-07-14 02:48:18,671 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,672 : Sending request : 267
+2020-07-14 02:48:18,672 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,674 : Sending request : 268
+2020-07-14 02:48:18,677 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,678 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,678 : Sending request : 269
+2020-07-14 02:48:18,681 : Sending request : 270
+2020-07-14 02:48:18,683 : Sending request : 271
+2020-07-14 02:48:18,685 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,685 : Sending request : 272
+2020-07-14 02:48:18,686 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,687 : Sending request : 273
+2020-07-14 02:48:18,687 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,689 : Sending request : 274
+2020-07-14 02:48:18,690 : Sending request : 275
+2020-07-14 02:48:18,691 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,694 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,694 : Sending request : 276
+2020-07-14 02:48:18,698 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,699 : Sending request : 277
+2020-07-14 02:48:18,699 : Sending request : 278
+2020-07-14 02:48:18,701 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,701 : Sending request : 279
+2020-07-14 02:48:18,703 : Sending request : 280
+2020-07-14 02:48:18,704 : Sending request : 281
+2020-07-14 02:48:18,705 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,705 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,705 : Sending request : 282
+2020-07-14 02:48:18,707 : Sending request : 283
+2020-07-14 02:48:18,711 : Sending request : 284
+2020-07-14 02:48:18,712 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,714 : Sending request : 285
+2020-07-14 02:48:18,714 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,716 : Sending request : 286
+2020-07-14 02:48:18,717 : Sending request : 287
+2020-07-14 02:48:18,717 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,718 : Sending request : 288
+2020-07-14 02:48:18,719 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,720 : Sending request : 289
+2020-07-14 02:48:18,721 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,721 : Sending request : 290
+2020-07-14 02:48:18,722 : Sending request : 291
+2020-07-14 02:48:18,723 : Sending request : 292
+2020-07-14 02:48:18,727 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,728 : Sending request : 293
+2020-07-14 02:48:18,731 : Sending request : 294
+2020-07-14 02:48:18,733 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,733 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,734 : Sending request : 295
+2020-07-14 02:48:18,735 : Sending request : 296
+2020-07-14 02:48:18,735 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,735 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,736 : Sending request : 297
+2020-07-14 02:48:18,739 : Sending request : 298
+2020-07-14 02:48:18,742 : Sending request : 299
+2020-07-14 02:48:18,745 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,747 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,747 : Sending request : 300
+2020-07-14 02:48:18,748 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,749 : Sending request : 301
+2020-07-14 02:48:18,751 : Sending request : 302
+2020-07-14 02:48:18,752 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,752 : Sending request : 303
+2020-07-14 02:48:18,753 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,754 : Sending request : 304
+2020-07-14 02:48:18,756 : Sending request : 305
+2020-07-14 02:48:18,756 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,760 : Sending request : 306
+2020-07-14 02:48:18,761 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,762 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,762 : Sending request : 307
+2020-07-14 02:48:18,764 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,764 : Sending request : 308
+2020-07-14 02:48:18,766 : Sending request : 309
+2020-07-14 02:48:18,768 : Sending request : 310
+2020-07-14 02:48:18,769 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,769 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,770 : Sending request : 311
+2020-07-14 02:48:18,772 : Sending request : 312
+2020-07-14 02:48:18,772 : Sending request : 313
+2020-07-14 02:48:18,773 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,775 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,776 : Sending request : 314
+2020-07-14 02:48:18,778 : Sending request : 315
+2020-07-14 02:48:18,781 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,782 : Sending request : 316
+2020-07-14 02:48:18,783 : Sending request : 317
+2020-07-14 02:48:18,785 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,785 : Sending request : 318
+2020-07-14 02:48:18,785 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,787 : Sending request : 319
+2020-07-14 02:48:18,787 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,788 : Sending request : 320
+2020-07-14 02:48:18,790 : Sending request : 321
+2020-07-14 02:48:18,791 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,795 : Sending request : 322
+2020-07-14 02:48:18,797 : Sending request : 323
+2020-07-14 02:48:18,797 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,801 : Sending request : 324
+2020-07-14 02:48:18,803 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,804 : Sending request : 325
+2020-07-14 02:48:18,805 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,806 : Sending request : 326
+2020-07-14 02:48:18,808 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,813 : Sending request : 327
+2020-07-14 02:48:18,817 : Sending request : 328
+2020-07-14 02:48:18,819 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,820 : Sending request : 329
+2020-07-14 02:48:18,821 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,822 : Sending request : 330
+2020-07-14 02:48:18,824 : Sending request : 331
+2020-07-14 02:48:18,824 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,835 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,836 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,837 : Sending request : 332
+2020-07-14 02:48:18,839 : Sending request : 333
+2020-07-14 02:48:18,842 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,844 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,845 : Sending request : 334
+2020-07-14 02:48:18,853 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,861 : Sending request : 335
+2020-07-14 02:48:18,863 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,864 : Sending request : 336
+2020-07-14 02:48:18,865 : Sending request : 337
+2020-07-14 02:48:18,866 : Sending request : 338
+2020-07-14 02:48:18,868 : Sending request : 339
+2020-07-14 02:48:18,868 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,869 : Sending request : 340
+2020-07-14 02:48:18,870 : Sending request : 341
+2020-07-14 02:48:18,871 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,872 : Sending request : 342
+2020-07-14 02:48:18,874 : Sending request : 343
+2020-07-14 02:48:18,875 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,876 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,878 : Sending request : 344
+2020-07-14 02:48:18,880 : Sending request : 345
+2020-07-14 02:48:18,882 : Sending request : 346
+2020-07-14 02:48:18,882 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,884 : Sending request : 347
+2020-07-14 02:48:18,886 : Sending request : 348
+2020-07-14 02:48:18,887 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,890 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,897 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,899 : Sending request : 349
+2020-07-14 02:48:18,900 : Sending request : 350
+2020-07-14 02:48:18,900 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,903 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,905 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,905 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,908 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,911 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,916 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,917 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,920 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,921 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,923 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,926 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,930 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,932 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,934 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,934 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,936 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,939 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,942 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,943 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,946 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,949 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,951 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,951 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,954 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,960 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,960 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,961 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,965 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,967 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,970 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,972 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,975 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,977 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,978 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,981 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,982 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,984 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,987 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,988 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,993 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,995 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,996 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:18,997 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,000 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,001 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,002 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,005 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,005 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,012 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,013 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,014 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,016 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,020 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,020 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,025 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,028 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,029 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,030 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,031 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,036 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,036 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,038 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,043 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,045 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,045 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,048 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,049 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,051 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,053 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,059 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,060 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,061 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,062 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,066 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,066 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,068 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,070 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,074 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,075 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,078 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,082 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,082 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,083 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,087 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,089 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,091 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,096 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,099 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,100 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,102 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,103 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,105 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,130 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,132 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,135 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,141 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,142 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,145 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,146 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,148 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,152 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:19,153 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,187 : Sending request : 351
+2020-07-14 02:48:29,190 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,191 : Sending request : 352
+2020-07-14 02:48:29,192 : Sending request : 353
+2020-07-14 02:48:29,194 : Sending request : 354
+2020-07-14 02:48:29,196 : Sending request : 355
+2020-07-14 02:48:29,199 : Sending request : 356
+2020-07-14 02:48:29,199 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,206 : Sending request : 357
+2020-07-14 02:48:29,209 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,210 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,210 : Sending request : 358
+2020-07-14 02:48:29,212 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,212 : Sending request : 359
+2020-07-14 02:48:29,214 : Sending request : 360
+2020-07-14 02:48:29,215 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,216 : Sending request : 361
+2020-07-14 02:48:29,218 : Sending request : 362
+2020-07-14 02:48:29,220 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,223 : Sending request : 363
+2020-07-14 02:48:29,224 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,225 : Sending request : 364
+2020-07-14 02:48:29,230 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,241 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,244 : Sending request : 365
+2020-07-14 02:48:29,247 : Sending request : 366
+2020-07-14 02:48:29,274 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,275 : Sending request : 371
+2020-07-14 02:48:29,256 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,257 : Sending request : 368
+2020-07-14 02:48:29,260 : Sending request : 369
+2020-07-14 02:48:29,264 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,264 : Sending request : 370
+2020-07-14 02:48:29,265 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,271 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,253 : Sending request : 367
+2020-07-14 02:48:29,255 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,278 : Sending request : 372
+2020-07-14 02:48:29,280 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,280 : Sending request : 373
+2020-07-14 02:48:29,283 : Sending request : 374
+2020-07-14 02:48:29,288 : Sending request : 375
+2020-07-14 02:48:29,289 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,289 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,290 : Sending request : 376
+2020-07-14 02:48:29,291 : Sending request : 377
+2020-07-14 02:48:29,292 : Sending request : 378
+2020-07-14 02:48:29,295 : Sending request : 379
+2020-07-14 02:48:29,297 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,297 : Sending request : 380
+2020-07-14 02:48:29,303 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,304 : Sending request : 381
+2020-07-14 02:48:29,306 : Sending request : 382
+2020-07-14 02:48:29,307 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,310 : Sending request : 383
+2020-07-14 02:48:29,314 : Sending request : 384
+2020-07-14 02:48:29,315 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,320 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,320 : Sending request : 385
+2020-07-14 02:48:29,321 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,324 : Sending request : 386
+2020-07-14 02:48:29,327 : Sending request : 387
+2020-07-14 02:48:29,328 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,331 : Sending request : 388
+2020-07-14 02:48:29,332 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,335 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,335 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,336 : Sending request : 389
+2020-07-14 02:48:29,338 : Sending request : 390
+2020-07-14 02:48:29,343 : Sending request : 391
+2020-07-14 02:48:29,346 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,346 : Sending request : 392
+2020-07-14 02:48:29,348 : Sending request : 393
+2020-07-14 02:48:29,348 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,352 : Sending request : 394
+2020-07-14 02:48:29,354 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,356 : Sending request : 395
+2020-07-14 02:48:29,358 : Sending request : 396
+2020-07-14 02:48:29,358 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,360 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,360 : Sending request : 397
+2020-07-14 02:48:29,363 : Sending request : 398
+2020-07-14 02:48:29,365 : Sending request : 399
+2020-07-14 02:48:29,368 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,371 : Sending request : 400
+2020-07-14 02:48:29,374 : Sending request : 401
+2020-07-14 02:48:29,376 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,376 : Sending request : 402
+2020-07-14 02:48:29,378 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,379 : Sending request : 403
+2020-07-14 02:48:29,380 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,380 : Sending request : 404
+2020-07-14 02:48:29,384 : Sending request : 405
+2020-07-14 02:48:29,389 : Sending request : 406
+2020-07-14 02:48:29,392 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,392 : Sending request : 407
+2020-07-14 02:48:29,393 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,395 : Sending request : 408
+2020-07-14 02:48:29,396 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,399 : Sending request : 409
+2020-07-14 02:48:29,402 : Sending request : 410
+2020-07-14 02:48:29,403 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,405 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,405 : Sending request : 411
+2020-07-14 02:48:29,408 : Sending request : 412
+2020-07-14 02:48:29,411 : Sending request : 413
+2020-07-14 02:48:29,414 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,417 : Sending request : 414
+2020-07-14 02:48:29,419 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,421 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,421 : Sending request : 415
+2020-07-14 02:48:29,423 : Sending request : 416
+2020-07-14 02:48:29,426 : Sending request : 417
+2020-07-14 02:48:29,429 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,430 : Sending request : 418
+2020-07-14 02:48:29,432 : Sending request : 419
+2020-07-14 02:48:29,432 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,435 : Sending request : 420
+2020-07-14 02:48:29,436 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,439 : Sending request : 421
+2020-07-14 02:48:29,441 : Sending request : 422
+2020-07-14 02:48:29,442 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,444 : Sending request : 423
+2020-07-14 02:48:29,444 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,447 : Sending request : 424
+2020-07-14 02:48:29,450 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,455 : Sending request : 425
+2020-07-14 02:48:29,457 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,460 : Sending request : 426
+2020-07-14 02:48:29,462 : Sending request : 427
+2020-07-14 02:48:29,463 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,463 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,465 : Sending request : 428
+2020-07-14 02:48:29,465 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,468 : Sending request : 429
+2020-07-14 02:48:29,471 : Sending request : 430
+2020-07-14 02:48:29,474 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,474 : Sending request : 431
+2020-07-14 02:48:29,477 : Sending request : 432
+2020-07-14 02:48:29,478 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,481 : Sending request : 433
+2020-07-14 02:48:29,483 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,486 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,486 : Sending request : 434
+2020-07-14 02:48:29,489 : Sending request : 435
+2020-07-14 02:48:29,494 : Sending request : 436
+2020-07-14 02:48:29,500 : Sending request : 437
+2020-07-14 02:48:29,502 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,508 : Sending request : 438
+2020-07-14 02:48:29,511 : Sending request : 439
+2020-07-14 02:48:29,511 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,513 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,519 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,520 : Sending request : 440
+2020-07-14 02:48:29,523 : Sending request : 441
+2020-07-14 02:48:29,526 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,527 : Sending request : 442
+2020-07-14 02:48:29,536 : Sending request : 443
+2020-07-14 02:48:29,541 : Sending request : 444
+2020-07-14 02:48:29,542 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,545 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,549 : Sending request : 445
+2020-07-14 02:48:29,550 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,553 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,553 : Sending request : 446
+2020-07-14 02:48:29,556 : Sending request : 447
+2020-07-14 02:48:29,559 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,560 : Sending request : 448
+2020-07-14 02:48:29,563 : Sending request : 449
+2020-07-14 02:48:29,568 : Sending request : 450
+2020-07-14 02:48:29,569 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,571 : Sending request : 451
+2020-07-14 02:48:29,573 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,573 : Sending request : 452
+2020-07-14 02:48:29,575 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,578 : Sending request : 453
+2020-07-14 02:48:29,586 : Sending request : 454
+2020-07-14 02:48:29,588 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,590 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,590 : Sending request : 455
+2020-07-14 02:48:29,591 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,593 : Sending request : 456
+2020-07-14 02:48:29,594 : Sending request : 457
+2020-07-14 02:48:29,595 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,597 : Sending request : 458
+2020-07-14 02:48:29,602 : Sending request : 459
+2020-07-14 02:48:29,606 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,606 : Sending request : 460
+2020-07-14 02:48:29,609 : Sending request : 461
+2020-07-14 02:48:29,609 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,611 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,611 : Sending request : 462
+2020-07-14 02:48:29,616 : Sending request : 463
+2020-07-14 02:48:29,618 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,618 : Sending request : 464
+2020-07-14 02:48:29,618 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,620 : Sending request : 465
+2020-07-14 02:48:29,622 : Sending request : 466
+2020-07-14 02:48:29,624 : Sending request : 467
+2020-07-14 02:48:29,626 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,628 : Sending request : 468
+2020-07-14 02:48:29,633 : Sending request : 469
+2020-07-14 02:48:29,637 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,637 : Sending request : 470
+2020-07-14 02:48:29,639 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,639 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,640 : Sending request : 471
+2020-07-14 02:48:29,642 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,643 : Sending request : 472
+2020-07-14 02:48:29,646 : Sending request : 473
+2020-07-14 02:48:29,648 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,648 : Sending request : 474
+2020-07-14 02:48:29,652 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,652 : Sending request : 475
+2020-07-14 02:48:29,654 : Sending request : 476
+2020-07-14 02:48:29,657 : Sending request : 477
+2020-07-14 02:48:29,660 : Sending request : 478
+2020-07-14 02:48:29,661 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,662 : Sending request : 479
+2020-07-14 02:48:29,664 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,668 : Sending request : 480
+2020-07-14 02:48:29,672 : Sending request : 481
+2020-07-14 02:48:29,673 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,674 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,674 : Sending request : 482
+2020-07-14 02:48:29,677 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,678 : Sending request : 483
+2020-07-14 02:48:29,680 : Sending request : 484
+2020-07-14 02:48:29,684 : Sending request : 485
+2020-07-14 02:48:29,687 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,688 : Sending request : 486
+2020-07-14 02:48:29,692 : Sending request : 487
+2020-07-14 02:48:29,697 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,698 : Sending request : 488
+2020-07-14 02:48:29,702 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,703 : Sending request : 489
+2020-07-14 02:48:29,707 : Sending request : 490
+2020-07-14 02:48:29,707 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,710 : Sending request : 491
+2020-07-14 02:48:29,710 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,711 : Sending request : 492
+2020-07-14 02:48:29,712 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,716 : Sending request : 493
+2020-07-14 02:48:29,718 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,718 : Sending request : 494
+2020-07-14 02:48:29,720 : Sending request : 495
+2020-07-14 02:48:29,721 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,724 : Sending request : 496
+2020-07-14 02:48:29,726 : Sending request : 497
+2020-07-14 02:48:29,727 : Sending request : 498
+2020-07-14 02:48:29,727 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,727 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,729 : Sending request : 499
+2020-07-14 02:48:29,733 : Sending request : 500
+2020-07-14 02:48:29,737 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,737 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,738 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,743 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,746 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,749 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,749 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,757 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,757 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,760 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,762 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,764 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,765 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,770 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,771 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,775 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,777 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,780 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,781 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,784 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,790 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,790 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,793 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,799 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,800 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,804 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,805 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,812 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,822 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,825 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,827 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,837 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,840 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,842 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,848 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,850 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,858 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,860 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,867 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,871 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,872 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,877 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,883 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,885 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,887 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:29,889 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:39,738 : Sending request : 501
+2020-07-14 02:48:39,744 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:49,743 : Sending request : 502
+2020-07-14 02:48:49,750 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:58,232 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:48:58,447 : 71  200 0:00:40.163351
+2020-07-14 02:48:58,447 : Accepted : 1   Rejected : 0
+2020-07-14 02:48:59,745 : Sending request : 503
+2020-07-14 02:48:59,746 : Sending request : 504
+2020-07-14 02:48:59,748 : Sending request : 505
+2020-07-14 02:48:59,757 : Sending request : 506
+2020-07-14 02:48:59,763 : Sending request : 507
+2020-07-14 02:48:59,767 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,769 : Sending request : 508
+2020-07-14 02:48:59,775 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,777 : Sending request : 509
+2020-07-14 02:48:59,777 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,795 : Sending request : 510
+2020-07-14 02:48:59,803 : Sending request : 511
+2020-07-14 02:48:59,804 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,805 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,809 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,810 : Sending request : 512
+2020-07-14 02:48:59,812 : Sending request : 513
+2020-07-14 02:48:59,814 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,814 : Sending request : 514
+2020-07-14 02:48:59,816 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,819 : Sending request : 515
+2020-07-14 02:48:59,822 : Sending request : 516
+2020-07-14 02:48:59,825 : Sending request : 517
+2020-07-14 02:48:59,826 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,827 : Sending request : 518
+2020-07-14 02:48:59,828 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,832 : Sending request : 519
+2020-07-14 02:48:59,839 : Sending request : 520
+2020-07-14 02:48:59,840 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,841 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,842 : Sending request : 521
+2020-07-14 02:48:59,843 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,844 : Sending request : 522
+2020-07-14 02:48:59,845 : Sending request : 523
+2020-07-14 02:48:59,846 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,847 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,847 : Sending request : 524
+2020-07-14 02:48:59,857 : Sending request : 525
+2020-07-14 02:48:59,859 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,860 : Sending request : 526
+2020-07-14 02:48:59,861 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,862 : Sending request : 527
+2020-07-14 02:48:59,864 : Sending request : 528
+2020-07-14 02:48:59,865 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,867 : Sending request : 529
+2020-07-14 02:48:59,868 : Sending request : 530
+2020-07-14 02:48:59,869 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,870 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,871 : Sending request : 531
+2020-07-14 02:48:59,872 : Sending request : 532
+2020-07-14 02:48:59,875 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,875 : Sending request : 533
+2020-07-14 02:48:59,877 : Sending request : 534
+2020-07-14 02:48:59,878 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,878 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,879 : Sending request : 535
+2020-07-14 02:48:59,881 : Sending request : 536
+2020-07-14 02:48:59,885 : Sending request : 537
+2020-07-14 02:48:59,885 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,887 : Sending request : 538
+2020-07-14 02:48:59,888 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,889 : Sending request : 539
+2020-07-14 02:48:59,890 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,891 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,891 : Sending request : 540
+2020-07-14 02:48:59,893 : Sending request : 541
+2020-07-14 02:48:59,895 : Sending request : 542
+2020-07-14 02:48:59,896 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,897 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,899 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,899 : Sending request : 543
+2020-07-14 02:48:59,903 : Sending request : 544
+2020-07-14 02:48:59,905 : Sending request : 545
+2020-07-14 02:48:59,906 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,907 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,908 : Sending request : 546
+2020-07-14 02:48:59,909 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,910 : Sending request : 547
+2020-07-14 02:48:59,912 : Sending request : 548
+2020-07-14 02:48:59,912 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,914 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,915 : Sending request : 549
+2020-07-14 02:48:59,918 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,918 : Sending request : 550
+2020-07-14 02:48:59,920 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,922 : Sending request : 551
+2020-07-14 02:48:59,923 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,924 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,924 : Sending request : 552
+2020-07-14 02:48:59,926 : Sending request : 553
+2020-07-14 02:48:59,927 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,930 : Sending request : 554
+2020-07-14 02:48:59,932 : Sending request : 555
+2020-07-14 02:48:59,934 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,934 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,935 : Sending request : 556
+2020-07-14 02:48:59,935 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,938 : Sending request : 557
+2020-07-14 02:48:59,939 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,940 : Sending request : 558
+2020-07-14 02:48:59,941 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,942 : Sending request : 559
+2020-07-14 02:48:59,943 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,944 : Sending request : 560
+2020-07-14 02:48:59,945 : Sending request : 561
+2020-07-14 02:48:59,946 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,948 : Sending request : 562
+2020-07-14 02:48:59,953 : Sending request : 563
+2020-07-14 02:48:59,953 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,955 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,956 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,956 : Sending request : 564
+2020-07-14 02:48:59,959 : Sending request : 565
+2020-07-14 02:48:59,961 : Sending request : 566
+2020-07-14 02:48:59,962 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,963 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,963 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,963 : Sending request : 567
+2020-07-14 02:48:59,964 : Sending request : 568
+2020-07-14 02:48:59,967 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,967 : Sending request : 569
+2020-07-14 02:48:59,969 : Sending request : 570
+2020-07-14 02:48:59,971 : Sending request : 571
+2020-07-14 02:48:59,972 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,973 : Sending request : 572
+2020-07-14 02:48:59,975 : Sending request : 573
+2020-07-14 02:48:59,976 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,978 : Sending request : 574
+2020-07-14 02:48:59,979 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,980 : Sending request : 575
+2020-07-14 02:48:59,981 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,983 : Sending request : 576
+2020-07-14 02:48:59,984 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,986 : Sending request : 577
+2020-07-14 02:48:59,986 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,987 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,987 : Sending request : 578
+2020-07-14 02:48:59,988 : Sending request : 579
+2020-07-14 02:48:59,990 : Sending request : 580
+2020-07-14 02:48:59,992 : Sending request : 581
+2020-07-14 02:48:59,993 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,994 : Sending request : 582
+2020-07-14 02:48:59,994 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,996 : Sending request : 583
+2020-07-14 02:48:59,998 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:48:59,999 : Sending request : 584
+2020-07-14 02:49:00,002 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,002 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,003 : Sending request : 585
+2020-07-14 02:49:00,006 : Sending request : 586
+2020-07-14 02:49:00,008 : Sending request : 587
+2020-07-14 02:49:00,009 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,010 : Sending request : 588
+2020-07-14 02:49:00,012 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,014 : Sending request : 589
+2020-07-14 02:49:00,016 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,018 : Sending request : 590
+2020-07-14 02:49:00,020 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,021 : Sending request : 591
+2020-07-14 02:49:00,022 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,023 : Sending request : 592
+2020-07-14 02:49:00,024 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,025 : Sending request : 593
+2020-07-14 02:49:00,027 : Sending request : 594
+2020-07-14 02:49:00,028 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,029 : Sending request : 595
+2020-07-14 02:49:00,029 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,030 : Sending request : 596
+2020-07-14 02:49:00,032 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,033 : Sending request : 597
+2020-07-14 02:49:00,037 : Sending request : 598
+2020-07-14 02:49:00,039 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,040 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,041 : Sending request : 599
+2020-07-14 02:49:00,042 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,043 : Sending request : 600
+2020-07-14 02:49:00,044 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,047 : Sending request : 601
+2020-07-14 02:49:00,047 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,048 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,049 : Sending request : 602
+2020-07-14 02:49:00,050 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,051 : Sending request : 603
+2020-07-14 02:49:00,053 : Sending request : 604
+2020-07-14 02:49:00,055 : Sending request : 605
+2020-07-14 02:49:00,057 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,057 : Sending request : 606
+2020-07-14 02:49:00,060 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,062 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,062 : Sending request : 607
+2020-07-14 02:49:00,067 : Sending request : 608
+2020-07-14 02:49:00,068 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,068 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,069 : Sending request : 609
+2020-07-14 02:49:00,071 : Sending request : 610
+2020-07-14 02:49:00,071 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,073 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,073 : Sending request : 611
+2020-07-14 02:49:00,076 : Sending request : 612
+2020-07-14 02:49:00,076 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,079 : Sending request : 613
+2020-07-14 02:49:00,079 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,079 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,080 : Sending request : 614
+2020-07-14 02:49:00,084 : Sending request : 615
+2020-07-14 02:49:00,085 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,086 : Sending request : 616
+2020-07-14 02:49:00,087 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,088 : Sending request : 617
+2020-07-14 02:49:00,089 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,089 : Sending request : 618
+2020-07-14 02:49:00,090 : Sending request : 619
+2020-07-14 02:49:00,092 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,093 : Sending request : 620
+2020-07-14 02:49:00,094 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,095 : Sending request : 621
+2020-07-14 02:49:00,097 : Sending request : 622
+2020-07-14 02:49:00,101 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,101 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,101 : Sending request : 623
+2020-07-14 02:49:00,103 : Sending request : 624
+2020-07-14 02:49:00,104 : Sending request : 625
+2020-07-14 02:49:00,106 : Sending request : 626
+2020-07-14 02:49:00,107 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,109 : Sending request : 627
+2020-07-14 02:49:00,109 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,112 : Sending request : 628
+2020-07-14 02:49:00,113 : Sending request : 629
+2020-07-14 02:49:00,113 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,114 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,116 : Sending request : 630
+2020-07-14 02:49:00,118 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,119 : Sending request : 631
+2020-07-14 02:49:00,121 : Sending request : 632
+2020-07-14 02:49:00,122 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,123 : Sending request : 633
+2020-07-14 02:49:00,123 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,125 : Sending request : 634
+2020-07-14 02:49:00,126 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,127 : Sending request : 635
+2020-07-14 02:49:00,128 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,129 : Sending request : 636
+2020-07-14 02:49:00,131 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,133 : Sending request : 637
+2020-07-14 02:49:00,135 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,135 : Sending request : 638
+2020-07-14 02:49:00,138 : Sending request : 639
+2020-07-14 02:49:00,141 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,143 : Sending request : 640
+2020-07-14 02:49:00,145 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,145 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,146 : Sending request : 641
+2020-07-14 02:49:00,150 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,151 : Sending request : 642
+2020-07-14 02:49:00,154 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,154 : Sending request : 643
+2020-07-14 02:49:00,156 : Sending request : 644
+2020-07-14 02:49:00,156 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,157 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,159 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,159 : Sending request : 645
+2020-07-14 02:49:00,160 : Sending request : 646
+2020-07-14 02:49:00,164 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,164 : Sending request : 647
+2020-07-14 02:49:00,168 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,169 : Sending request : 648
+2020-07-14 02:49:00,170 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,171 : Sending request : 649
+2020-07-14 02:49:00,172 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,174 : Sending request : 650
+2020-07-14 02:49:00,175 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,177 : Sending request : 651
+2020-07-14 02:49:00,177 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,179 : Sending request : 652
+2020-07-14 02:49:00,181 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,184 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,184 : Sending request : 653
+2020-07-14 02:49:00,186 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,187 : Sending request : 654
+2020-07-14 02:49:00,189 : Sending request : 655
+2020-07-14 02:49:00,190 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,190 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,191 : Sending request : 656
+2020-07-14 02:49:00,194 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,196 : Sending request : 657
+2020-07-14 02:49:00,202 : Sending request : 658
+2020-07-14 02:49:00,202 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,204 : Sending request : 659
+2020-07-14 02:49:00,330 : Sending request : 693
+2020-07-14 02:49:00,205 : Sending request : 660
+2020-07-14 02:49:00,206 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,207 : Sending request : 661
+2020-07-14 02:49:00,209 : Sending request : 662
+2020-07-14 02:49:00,211 : Sending request : 663
+2020-07-14 02:49:00,213 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,214 : Sending request : 664
+2020-07-14 02:49:00,220 : Sending request : 665
+2020-07-14 02:49:00,220 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,221 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,224 : Sending request : 666
+2020-07-14 02:49:00,227 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,228 : Sending request : 667
+2020-07-14 02:49:00,229 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,240 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,242 : Sending request : 668
+2020-07-14 02:49:00,244 : Sending request : 669
+2020-07-14 02:49:00,246 : Sending request : 670
+2020-07-14 02:49:00,247 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,253 : Sending request : 671
+2020-07-14 02:49:00,256 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,256 : Sending request : 672
+2020-07-14 02:49:00,257 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,258 : Sending request : 673
+2020-07-14 02:49:00,260 : Sending request : 674
+2020-07-14 02:49:00,263 : Sending request : 675
+2020-07-14 02:49:00,268 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,269 : Sending request : 676
+2020-07-14 02:49:00,269 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,274 : Sending request : 677
+2020-07-14 02:49:00,276 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,277 : Sending request : 678
+2020-07-14 02:49:00,279 : Sending request : 679
+2020-07-14 02:49:00,280 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,286 : Sending request : 680
+2020-07-14 02:49:00,288 : Sending request : 681
+2020-07-14 02:49:00,288 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,291 : Sending request : 682
+2020-07-14 02:49:00,292 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,293 : Sending request : 683
+2020-07-14 02:49:00,296 : Sending request : 684
+2020-07-14 02:49:00,296 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,302 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,302 : Sending request : 685
+2020-07-14 02:49:00,305 : Sending request : 686
+2020-07-14 02:49:00,307 : Sending request : 687
+2020-07-14 02:49:00,309 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,310 : Sending request : 688
+2020-07-14 02:49:00,318 : Sending request : 689
+2020-07-14 02:49:00,320 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,322 : Sending request : 690
+2020-07-14 02:49:00,322 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,324 : Sending request : 691
+2020-07-14 02:49:00,326 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,327 : Sending request : 692
+2020-07-14 02:49:00,205 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,334 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,335 : Sending request : 694
+2020-07-14 02:49:00,336 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,339 : Sending request : 695
+2020-07-14 02:49:00,342 : Sending request : 696
+2020-07-14 02:49:00,343 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,346 : Sending request : 697
+2020-07-14 02:49:00,346 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,351 : Sending request : 698
+2020-07-14 02:49:00,352 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,355 : Sending request : 699
+2020-07-14 02:49:00,356 : Sending request : 700
+2020-07-14 02:49:00,357 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,358 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,361 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,366 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,368 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,372 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,376 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,385 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,386 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,386 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,389 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,397 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,399 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,404 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,407 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,407 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,411 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,419 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,419 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,422 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,427 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,433 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,436 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,438 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,444 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,445 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,452 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,453 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,454 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,458 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,462 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,465 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,469 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,475 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,476 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,478 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,487 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,487 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,488 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:00,645 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:01,264 : 70  200 0:00:42.579730
+2020-07-14 02:49:01,264 : Accepted : 2   Rejected : 0
+2020-07-14 02:49:01,975 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:02,471 : 73  200 0:00:43.901899
+2020-07-14 02:49:02,472 : Accepted : 3   Rejected : 0
+2020-07-14 02:49:03,067 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:03,269 : 72  200 0:00:44.995998
+2020-07-14 02:49:03,270 : Accepted : 4   Rejected : 0
+2020-07-14 02:49:03,879 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:04,116 : 242  200 0:00:45.008526
+2020-07-14 02:49:04,116 : Accepted : 5   Rejected : 0
+2020-07-14 02:49:04,717 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:04,912 : 247  200 0:00:45.831897
+2020-07-14 02:49:04,913 : Accepted : 6   Rejected : 0
+2020-07-14 02:49:05,541 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:05,653 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:05,681 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:05,736 : 243  200 0:00:46.669023
+2020-07-14 02:49:05,736 : Accepted : 7   Rejected : 0
+2020-07-14 02:49:05,878 : 341  200 0:00:46.548348
+2020-07-14 02:49:05,878 : Accepted : 8   Rejected : 0
+2020-07-14 02:49:05,915 : 245  200 0:00:46.799787
+2020-07-14 02:49:05,915 : Accepted : 9   Rejected : 0
+2020-07-14 02:49:06,606 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:07,189 : 345  200 0:00:47.470983
+2020-07-14 02:49:07,190 : Accepted : 10   Rejected : 0
+2020-07-14 02:49:10,358 : Sending request : 701
+2020-07-14 02:49:10,359 : Sending request : 702
+2020-07-14 02:49:10,361 : Sending request : 703
+2020-07-14 02:49:10,365 : Sending request : 704
+2020-07-14 02:49:10,367 : Sending request : 705
+2020-07-14 02:49:10,370 : Sending request : 706
+2020-07-14 02:49:10,372 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,375 : Sending request : 707
+2020-07-14 02:49:10,379 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,381 : Sending request : 708
+2020-07-14 02:49:10,382 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,383 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,387 : Sending request : 709
+2020-07-14 02:49:10,389 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,390 : Sending request : 710
+2020-07-14 02:49:10,391 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,395 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,395 : Sending request : 711
+2020-07-14 02:49:10,397 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,397 : Sending request : 712
+2020-07-14 02:49:10,398 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,400 : Sending request : 713
+2020-07-14 02:49:10,403 : Sending request : 714
+2020-07-14 02:49:10,405 : Sending request : 715
+2020-07-14 02:49:10,406 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,410 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,410 : Sending request : 716
+2020-07-14 02:49:10,413 : Sending request : 717
+2020-07-14 02:49:10,417 : Sending request : 718
+2020-07-14 02:49:10,420 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,420 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,422 : Sending request : 719
+2020-07-14 02:49:10,424 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,425 : Sending request : 720
+2020-07-14 02:49:10,428 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,431 : Sending request : 721
+2020-07-14 02:49:10,435 : Sending request : 722
+2020-07-14 02:49:10,436 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,438 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,438 : Sending request : 723
+2020-07-14 02:49:10,439 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,440 : Sending request : 724
+2020-07-14 02:49:10,443 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,444 : Sending request : 725
+2020-07-14 02:49:10,447 : Sending request : 726
+2020-07-14 02:49:10,450 : Sending request : 727
+2020-07-14 02:49:10,453 : Sending request : 728
+2020-07-14 02:49:10,454 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,457 : Sending request : 729
+2020-07-14 02:49:10,457 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,460 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,461 : Sending request : 730
+2020-07-14 02:49:10,464 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,464 : Sending request : 731
+2020-07-14 02:49:10,466 : Sending request : 732
+2020-07-14 02:49:10,470 : Sending request : 733
+2020-07-14 02:49:10,470 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,477 : Sending request : 734
+2020-07-14 02:49:10,484 : Sending request : 735
+2020-07-14 02:49:10,485 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,487 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,488 : Sending request : 736
+2020-07-14 02:49:10,488 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,489 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,490 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,491 : Sending request : 737
+2020-07-14 02:49:10,494 : Sending request : 738
+2020-07-14 02:49:10,498 : Sending request : 739
+2020-07-14 02:49:10,500 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,501 : Sending request : 740
+2020-07-14 02:49:10,504 : Sending request : 741
+2020-07-14 02:49:10,505 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,506 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,508 : Sending request : 742
+2020-07-14 02:49:10,512 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,512 : Sending request : 743
+2020-07-14 02:49:10,514 : Sending request : 744
+2020-07-14 02:49:10,515 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,516 : Sending request : 745
+2020-07-14 02:49:10,518 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,519 : Sending request : 746
+2020-07-14 02:49:10,521 : Sending request : 747
+2020-07-14 02:49:10,523 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,525 : Sending request : 748
+2020-07-14 02:49:10,530 : Sending request : 749
+2020-07-14 02:49:10,533 : Sending request : 750
+2020-07-14 02:49:10,535 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,537 : Sending request : 751
+2020-07-14 02:49:10,537 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,544 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,545 : Sending request : 752
+2020-07-14 02:49:10,549 : Sending request : 753
+2020-07-14 02:49:10,550 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,551 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,552 : Sending request : 754
+2020-07-14 02:49:10,555 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,556 : Sending request : 755
+2020-07-14 02:49:10,559 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,560 : Sending request : 756
+2020-07-14 02:49:10,564 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,566 : Sending request : 757
+2020-07-14 02:49:10,570 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,575 : Sending request : 758
+2020-07-14 02:49:10,577 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,579 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,581 : Sending request : 759
+2020-07-14 02:49:10,584 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,588 : Sending request : 760
+2020-07-14 02:49:10,589 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,590 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,593 : Sending request : 761
+2020-07-14 02:49:10,594 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,596 : Sending request : 762
+2020-07-14 02:49:10,598 : Sending request : 763
+2020-07-14 02:49:10,602 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,602 : Sending request : 764
+2020-07-14 02:49:10,605 : Sending request : 765
+2020-07-14 02:49:10,607 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,610 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,610 : Sending request : 766
+2020-07-14 02:49:10,613 : Sending request : 767
+2020-07-14 02:49:10,614 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,617 : Sending request : 768
+2020-07-14 02:49:10,619 : Sending request : 769
+2020-07-14 02:49:10,621 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,623 : Sending request : 770
+2020-07-14 02:49:10,628 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,629 : Sending request : 771
+2020-07-14 02:49:10,630 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,630 : Sending request : 772
+2020-07-14 02:49:10,631 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,633 : Sending request : 773
+2020-07-14 02:49:10,635 : Sending request : 774
+2020-07-14 02:49:10,637 : Sending request : 775
+2020-07-14 02:49:10,639 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,640 : Sending request : 776
+2020-07-14 02:49:10,644 : Sending request : 777
+2020-07-14 02:49:10,645 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,647 : Sending request : 778
+2020-07-14 02:49:10,650 : Sending request : 779
+2020-07-14 02:49:10,650 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,651 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,653 : Sending request : 780
+2020-07-14 02:49:10,653 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,659 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,660 : Sending request : 781
+2020-07-14 02:49:10,663 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,664 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,664 : Sending request : 782
+2020-07-14 02:49:10,666 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,666 : Sending request : 783
+2020-07-14 02:49:10,668 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,669 : Sending request : 784
+2020-07-14 02:49:10,671 : Sending request : 785
+2020-07-14 02:49:10,672 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,673 : Sending request : 786
+2020-07-14 02:49:10,675 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,676 : Sending request : 787
+2020-07-14 02:49:10,678 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,679 : Sending request : 788
+2020-07-14 02:49:10,681 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,681 : Sending request : 789
+2020-07-14 02:49:10,688 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,688 : Sending request : 790
+2020-07-14 02:49:10,689 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,692 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,693 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,694 : Sending request : 791
+2020-07-14 02:49:10,695 : Sending request : 792
+2020-07-14 02:49:10,696 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,697 : Sending request : 793
+2020-07-14 02:49:10,697 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,698 : Sending request : 794
+2020-07-14 02:49:10,699 : Sending request : 795
+2020-07-14 02:49:10,700 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,701 : Sending request : 796
+2020-07-14 02:49:10,704 : Sending request : 797
+2020-07-14 02:49:10,706 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,707 : Sending request : 798
+2020-07-14 02:49:10,709 : Sending request : 799
+2020-07-14 02:49:10,710 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,712 : Sending request : 800
+2020-07-14 02:49:10,712 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,714 : Sending request : 801
+2020-07-14 02:49:10,717 : Sending request : 802
+2020-07-14 02:49:10,718 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,718 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,720 : Sending request : 803
+2020-07-14 02:49:10,721 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,723 : Sending request : 804
+2020-07-14 02:49:10,724 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,726 : Sending request : 805
+2020-07-14 02:49:10,727 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,728 : Sending request : 806
+2020-07-14 02:49:10,730 : Sending request : 807
+2020-07-14 02:49:10,731 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,732 : Sending request : 808
+2020-07-14 02:49:10,732 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,733 : Sending request : 809
+2020-07-14 02:49:10,734 : Sending request : 810
+2020-07-14 02:49:10,736 : Sending request : 811
+2020-07-14 02:49:10,738 : Sending request : 812
+2020-07-14 02:49:10,741 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,742 : Sending request : 813
+2020-07-14 02:49:10,742 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,744 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,745 : Sending request : 814
+2020-07-14 02:49:10,747 : Sending request : 815
+2020-07-14 02:49:10,749 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,751 : Sending request : 816
+2020-07-14 02:49:10,754 : Sending request : 817
+2020-07-14 02:49:10,755 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,755 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,757 : Sending request : 818
+2020-07-14 02:49:10,757 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,761 : Sending request : 819
+2020-07-14 02:49:10,761 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,763 : Sending request : 820
+2020-07-14 02:49:10,763 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,766 : Sending request : 821
+2020-07-14 02:49:10,766 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,768 : Sending request : 822
+2020-07-14 02:49:10,769 : Sending request : 823
+2020-07-14 02:49:10,770 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,770 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,772 : Sending request : 824
+2020-07-14 02:49:10,773 : Sending request : 825
+2020-07-14 02:49:10,775 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,776 : Sending request : 826
+2020-07-14 02:49:10,778 : Sending request : 827
+2020-07-14 02:49:10,780 : Sending request : 828
+2020-07-14 02:49:10,780 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,781 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,782 : Sending request : 829
+2020-07-14 02:49:10,784 : Sending request : 830
+2020-07-14 02:49:10,786 : Sending request : 831
+2020-07-14 02:49:10,786 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,788 : Sending request : 832
+2020-07-14 02:49:10,790 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,793 : Sending request : 833
+2020-07-14 02:49:10,796 : Sending request : 834
+2020-07-14 02:49:10,797 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,798 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,799 : Sending request : 835
+2020-07-14 02:49:10,800 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,800 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,801 : Sending request : 836
+2020-07-14 02:49:10,802 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,802 : Sending request : 837
+2020-07-14 02:49:10,803 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,803 : Sending request : 838
+2020-07-14 02:49:10,805 : Sending request : 839
+2020-07-14 02:49:10,811 : Sending request : 840
+2020-07-14 02:49:10,813 : Sending request : 841
+2020-07-14 02:49:10,813 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,813 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,816 : Sending request : 842
+2020-07-14 02:49:10,817 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,817 : Sending request : 843
+2020-07-14 02:49:10,818 : Sending request : 844
+2020-07-14 02:49:10,821 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,822 : Sending request : 845
+2020-07-14 02:49:10,829 : Sending request : 846
+2020-07-14 02:49:10,830 : Sending request : 847
+2020-07-14 02:49:10,831 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,832 : Sending request : 848
+2020-07-14 02:49:10,832 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,834 : Sending request : 849
+2020-07-14 02:49:10,835 : Sending request : 850
+2020-07-14 02:49:10,836 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,837 : Sending request : 851
+2020-07-14 02:49:10,844 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,845 : Sending request : 852
+2020-07-14 02:49:10,847 : Sending request : 853
+2020-07-14 02:49:10,848 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,848 : Sending request : 854
+2020-07-14 02:49:10,850 : Sending request : 855
+2020-07-14 02:49:10,850 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,854 : Sending request : 856
+2020-07-14 02:49:10,860 : Sending request : 857
+2020-07-14 02:49:10,860 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,862 : Sending request : 858
+2020-07-14 02:49:10,862 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,864 : Sending request : 859
+2020-07-14 02:49:10,865 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,867 : Sending request : 860
+2020-07-14 02:49:10,870 : Sending request : 861
+2020-07-14 02:49:10,871 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,876 : Sending request : 862
+2020-07-14 02:49:10,878 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,881 : Sending request : 863
+2020-07-14 02:49:10,882 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,883 : Sending request : 864
+2020-07-14 02:49:10,883 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,885 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,885 : Sending request : 865
+2020-07-14 02:49:10,889 : Sending request : 866
+2020-07-14 02:49:10,894 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,895 : Sending request : 867
+2020-07-14 02:49:10,897 : Sending request : 868
+2020-07-14 02:49:10,897 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,899 : Sending request : 869
+2020-07-14 02:49:10,899 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,901 : Sending request : 870
+2020-07-14 02:49:10,903 : Sending request : 871
+2020-07-14 02:49:10,903 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,911 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,915 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,919 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,922 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,924 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,929 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,931 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,939 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,941 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,944 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,948 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,952 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,953 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,965 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,969 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,972 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,978 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,982 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,988 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,988 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,994 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,996 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:10,997 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,000 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,009 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,009 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,014 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,014 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,016 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,025 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,027 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,029 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,031 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,036 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,042 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:11,043 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:13,987 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,108 : 74  200 0:00:55.909562
+2020-07-14 02:49:14,108 : Accepted : 11   Rejected : 0
+2020-07-14 02:49:14,312 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,357 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,403 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,422 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,460 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,638 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,671 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,683 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,696 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,711 : 79  200 0:00:56.218923
+2020-07-14 02:49:14,711 : Accepted : 12   Rejected : 0
+2020-07-14 02:49:14,734 : 76  200 0:00:56.337031
+2020-07-14 02:49:14,735 : Accepted : 13   Rejected : 0
+2020-07-14 02:49:14,737 : 77  200 0:00:56.369679
+2020-07-14 02:49:14,738 : Accepted : 14   Rejected : 0
+2020-07-14 02:49:14,740 : 75  200 0:00:56.322535
+2020-07-14 02:49:14,741 : 78  200 0:00:56.268166
+2020-07-14 02:49:14,741 : Accepted : 15   Rejected : 0
+2020-07-14 02:49:14,741 : Accepted : 16   Rejected : 0
+2020-07-14 02:49:14,751 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,755 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,763 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,849 : 80  200 0:00:56.541391
+2020-07-14 02:49:14,850 : Accepted : 17   Rejected : 0
+2020-07-14 02:49:14,887 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,909 : 81  200 0:00:56.567991
+2020-07-14 02:49:14,909 : Accepted : 18   Rejected : 0
+2020-07-14 02:49:14,910 : 86  200 0:00:56.551502
+2020-07-14 02:49:14,910 : Accepted : 19   Rejected : 0
+2020-07-14 02:49:14,915 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,925 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,931 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:14,930 : 84  200 0:00:56.580679
+2020-07-14 02:49:14,940 : Accepted : 20   Rejected : 0
+2020-07-14 02:49:14,993 : 87  200 0:00:56.612674
+2020-07-14 02:49:14,994 : Accepted : 21   Rejected : 0
+2020-07-14 02:49:14,999 : 83  200 0:00:56.644277
+2020-07-14 02:49:15,000 : Accepted : 22   Rejected : 0
+2020-07-14 02:49:15,046 : 88  200 0:00:56.621604
+2020-07-14 02:49:15,046 : Accepted : 23   Rejected : 0
+2020-07-14 02:49:15,097 : 89  200 0:00:56.743786
+2020-07-14 02:49:15,097 : Accepted : 24   Rejected : 0
+2020-07-14 02:49:15,243 : 92  200 0:00:56.752409
+2020-07-14 02:49:15,243 : Accepted : 25   Rejected : 0
+2020-07-14 02:49:15,247 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:15,290 : 90  200 0:00:56.779670
+2020-07-14 02:49:15,290 : Accepted : 26   Rejected : 0
+2020-07-14 02:49:15,319 : 85  200 0:00:56.814857
+2020-07-14 02:49:15,320 : Accepted : 27   Rejected : 0
+2020-07-14 02:49:16,009 : 91  200 0:00:57.087458
+2020-07-14 02:49:16,009 : Accepted : 28   Rejected : 0
+2020-07-14 02:49:16,196 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:16,294 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:16,300 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:16,361 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:16,528 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:16,817 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:16,904 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:17,290 : 93  200 0:00:58.026413
+2020-07-14 02:49:17,291 : Accepted : 29   Rejected : 0
+2020-07-14 02:49:17,361 : 94  200 0:00:58.122976
+2020-07-14 02:49:17,361 : Accepted : 30   Rejected : 0
+2020-07-14 02:49:17,368 : 96  200 0:00:58.116020
+2020-07-14 02:49:17,369 : Accepted : 31   Rejected : 0
+2020-07-14 02:49:17,414 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:17,451 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:17,503 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:17,542 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:17,668 : 95  200 0:00:58.179517
+2020-07-14 02:49:17,668 : Accepted : 32   Rejected : 0
+2020-07-14 02:49:18,174 : 99  200 0:00:58.329977
+2020-07-14 02:49:18,174 : Accepted : 33   Rejected : 0
+2020-07-14 02:49:18,220 : 97  200 0:00:58.626186
+2020-07-14 02:49:18,223 : Accepted : 34   Rejected : 0
+2020-07-14 02:49:18,232 : 98  200 0:00:58.699969
+2020-07-14 02:49:18,235 : Accepted : 35   Rejected : 0
+2020-07-14 02:49:18,241 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:18,314 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:18,439 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:18,454 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:18,580 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:18,718 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,000 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,014 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,172 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,259 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,323 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,352 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,531 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,604 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,687 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,784 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,796 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,876 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,935 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:19,975 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,028 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,033 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,134 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,146 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,261 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,318 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,367 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,369 : 246  200 0:00:58.529637
+2020-07-14 02:49:20,369 : Accepted : 36   Rejected : 0
+2020-07-14 02:49:20,481 : 501  200 0:00:37.709845
+2020-07-14 02:49:20,481 : Accepted : 37   Rejected : 0
+2020-07-14 02:49:20,493 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,521 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,536 : 244  200 0:00:58.627933
+2020-07-14 02:49:20,538 : Accepted : 38   Rejected : 0
+2020-07-14 02:49:20,611 : 248  200 0:00:58.645251
+2020-07-14 02:49:20,611 : Accepted : 39   Rejected : 0
+2020-07-14 02:49:20,683 : 249  200 0:00:59.342453
+2020-07-14 02:49:20,683 : Accepted : 40   Rejected : 0
+2020-07-14 02:49:20,685 : 253  200 0:00:59.404344
+2020-07-14 02:49:20,685 : Accepted : 41   Rejected : 0
+2020-07-14 02:49:20,688 : 250  200 0:00:59.536647
+2020-07-14 02:49:20,689 : Accepted : 42   Rejected : 0
+2020-07-14 02:49:20,691 : 283  200 0:00:59.475052
+2020-07-14 02:49:20,691 : Accepted : 43   Rejected : 0
+2020-07-14 02:49:20,692 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,695 : 282  200 0:00:59.605865
+2020-07-14 02:49:20,696 : 335  200 0:00:59.627224
+2020-07-14 02:49:20,696 : Accepted : 44   Rejected : 0
+2020-07-14 02:49:20,696 : Accepted : 45   Rejected : 0
+2020-07-14 02:49:20,721 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,732 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,741 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,873 : 262  200 0:01:00.082494
+2020-07-14 02:49:20,873 : Accepted : 46   Rejected : 0
+2020-07-14 02:49:20,879 : 344  200 0:00:59.864013
+2020-07-14 02:49:20,880 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:20,880 : Accepted : 47   Rejected : 0
+2020-07-14 02:49:20,905 : Sending request : 872
+2020-07-14 02:49:20,907 : Sending request : 873
+2020-07-14 02:49:20,908 : Sending request : 874
+2020-07-14 02:49:20,912 : Sending request : 875
+2020-07-14 02:49:20,918 : Sending request : 876
+2020-07-14 02:49:20,923 : Sending request : 877
+2020-07-14 02:49:20,924 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,925 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,928 : Sending request : 878
+2020-07-14 02:49:20,930 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,933 : Sending request : 879
+2020-07-14 02:49:20,933 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,939 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,941 : Sending request : 880
+2020-07-14 02:49:20,946 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,948 : Sending request : 881
+2020-07-14 02:49:20,956 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,957 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,957 : Sending request : 882
+2020-07-14 02:49:20,961 : 304  200 0:01:00.148165
+2020-07-14 02:49:20,963 : Sending request : 883
+2020-07-14 02:49:20,966 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,966 : Sending request : 884
+2020-07-14 02:49:20,970 : Sending request : 885
+2020-07-14 02:49:20,972 : Sending request : 886
+2020-07-14 02:49:20,972 : Accepted : 48   Rejected : 0
+2020-07-14 02:49:20,973 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,974 : Sending request : 887
+2020-07-14 02:49:20,975 : Sending request : 888
+2020-07-14 02:49:20,975 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,977 : Sending request : 889
+2020-07-14 02:49:20,979 : Sending request : 890
+2020-07-14 02:49:20,981 : Sending request : 891
+2020-07-14 02:49:20,982 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,983 : Sending request : 892
+2020-07-14 02:49:20,984 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,987 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,988 : Sending request : 893
+2020-07-14 02:49:20,988 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,990 : Sending request : 894
+2020-07-14 02:49:20,994 : 273  200 0:01:00.306263
+2020-07-14 02:49:20,995 : Sending request : 895
+2020-07-14 02:49:20,997 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:20,998 : Sending request : 896
+2020-07-14 02:49:21,000 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,004 : 259  200 0:01:00.401802
+2020-07-14 02:49:21,004 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,005 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,005 : Sending request : 897
+2020-07-14 02:49:21,008 : Sending request : 898
+2020-07-14 02:49:21,010 : 270  200 0:01:00.583906
+2020-07-14 02:49:21,011 : 254  200 0:01:00.439242
+2020-07-14 02:49:21,012 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,013 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:21,014 : Sending request : 899
+2020-07-14 02:49:21,016 : 255  200 0:01:00.690118
+2020-07-14 02:49:21,017 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,017 : Sending request : 900
+2020-07-14 02:49:21,021 : 299  200 0:01:00.675217
+2020-07-14 02:49:21,021 : Accepted : 49   Rejected : 0
+2020-07-14 02:49:21,022 : Sending request : 901
+2020-07-14 02:49:21,023 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,024 : Sending request : 902
+2020-07-14 02:49:21,026 : Sending request : 903
+2020-07-14 02:49:21,027 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,028 : Sending request : 904
+2020-07-14 02:49:21,028 : Accepted : 50   Rejected : 0
+2020-07-14 02:49:21,030 : Sending request : 905
+2020-07-14 02:49:21,030 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,030 : Sending request : 906
+2020-07-14 02:49:21,031 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,031 : Sending request : 907
+2020-07-14 02:49:21,033 : Sending request : 908
+2020-07-14 02:49:21,033 : Accepted : 51   Rejected : 0
+2020-07-14 02:49:21,035 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:21,037 : Sending request : 909
+2020-07-14 02:49:21,037 : Accepted : 52   Rejected : 0
+2020-07-14 02:49:21,039 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,039 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,040 : Accepted : 53   Rejected : 0
+2020-07-14 02:49:21,042 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,042 : Accepted : 54   Rejected : 0
+2020-07-14 02:49:21,048 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,053 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,054 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,055 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,057 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,060 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,062 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,062 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:21,067 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,067 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,070 : 348  200 0:01:00.639196
+2020-07-14 02:49:21,071 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:21,075 : Accepted : 55   Rejected : 0
+2020-07-14 02:49:21,170 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:21,254 : 284  200 0:01:00.816567
+2020-07-14 02:49:21,254 : Accepted : 56   Rejected : 0
+2020-07-14 02:49:21,259 : 285  200 0:01:00.895345
+2020-07-14 02:49:21,259 : Accepted : 57   Rejected : 0
+2020-07-14 02:49:21,453 : 277  200 0:01:00.971210
+2020-07-14 02:49:21,453 : Accepted : 58   Rejected : 0
+2020-07-14 02:49:21,457 : 274  200 0:01:01.021243
+2020-07-14 02:49:21,457 : Accepted : 59   Rejected : 0
+2020-07-14 02:49:21,462 : 280  200 0:01:01.057629
+2020-07-14 02:49:21,462 : Accepted : 60   Rejected : 0
+2020-07-14 02:49:21,467 : 261  200 0:01:01.104913
+2020-07-14 02:49:21,467 : Accepted : 61   Rejected : 0
+2020-07-14 02:49:21,484 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:21,521 : 272  200 0:01:01.184164
+2020-07-14 02:49:21,521 : Accepted : 62   Rejected : 0
+2020-07-14 02:49:21,526 : 312  200 0:01:01.105586
+2020-07-14 02:49:21,526 : Accepted : 63   Rejected : 0
+2020-07-14 02:49:21,541 : 325  200 0:01:01.250338
+2020-07-14 02:49:21,541 : Accepted : 64   Rejected : 0
+2020-07-14 02:49:21,544 : 327  200 0:01:01.190075
+2020-07-14 02:49:21,545 : Accepted : 65   Rejected : 0
+2020-07-14 02:49:21,738 : 275  200 0:01:01.408754
+2020-07-14 02:49:21,738 : Accepted : 66   Rejected : 0
+2020-07-14 02:49:21,741 : 271  200 0:01:01.544138
+2020-07-14 02:49:21,742 : Accepted : 67   Rejected : 0
+2020-07-14 02:49:21,756 : 287  200 0:01:01.536155
+2020-07-14 02:49:21,756 : Accepted : 68   Rejected : 0
+2020-07-14 02:49:22,396 : 290  200 0:01:01.698958
+2020-07-14 02:49:22,396 : Accepted : 69   Rejected : 0
+2020-07-14 02:49:22,404 : 276  200 0:01:01.759243
+2020-07-14 02:49:22,404 : Accepted : 70   Rejected : 0
+2020-07-14 02:49:22,413 : 266  200 0:01:01.794499
+2020-07-14 02:49:22,413 : Accepted : 71   Rejected : 0
+2020-07-14 02:49:22,420 : 298  200 0:01:01.730318
+2020-07-14 02:49:22,420 : Accepted : 72   Rejected : 0
+2020-07-14 02:49:22,430 : 252  200 0:01:01.974487
+2020-07-14 02:49:22,430 : Accepted : 73   Rejected : 0
+2020-07-14 02:49:22,436 : 251  200 0:01:02.134735
+2020-07-14 02:49:22,437 : Accepted : 74   Rejected : 0
+2020-07-14 02:49:22,444 : 278  200 0:01:02.107888
+2020-07-14 02:49:22,445 : Accepted : 75   Rejected : 0
+2020-07-14 02:49:22,465 : 286  200 0:01:02.076901
+2020-07-14 02:49:22,465 : Accepted : 76   Rejected : 0
+2020-07-14 02:49:22,472 : 300  200 0:01:02.155860
+2020-07-14 02:49:22,472 : Accepted : 77   Rejected : 0
+2020-07-14 02:49:22,490 : 256  200 0:01:02.567815
+2020-07-14 02:49:22,490 : Accepted : 78   Rejected : 0
+2020-07-14 02:49:23,365 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:23,856 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:23,917 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:24,010 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:24,077 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:24,504 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:24,792 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:25,151 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:25,166 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:25,213 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:25,312 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:25,400 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:25,558 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:25,616 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:26,600 : 288  200 0:01:04.377206
+2020-07-14 02:49:26,601 : Accepted : 79   Rejected : 0
+2020-07-14 02:49:26,629 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:26,792 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:26,924 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:27,121 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:27,430 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:27,619 : 295  200 0:01:04.852512
+2020-07-14 02:49:27,619 : Accepted : 80   Rejected : 0
+2020-07-14 02:49:27,951 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:27,954 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:27,958 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:27,959 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:27,978 : 329  200 0:01:04.998928
+2020-07-14 02:49:27,993 : 308  200 0:01:04.883626
+2020-07-14 02:49:27,999 : 502  200 0:00:34.262968
+2020-07-14 02:49:28,000 : Accepted : 81   Rejected : 0
+2020-07-14 02:49:28,000 : Accepted : 82   Rejected : 0
+2020-07-14 02:49:28,000 : Accepted : 83   Rejected : 0
+2020-07-14 02:49:29,903 : 293  200 0:01:05.793642
+2020-07-14 02:49:29,903 : Accepted : 84   Rejected : 0
+2020-07-14 02:49:30,188 : 350  200 0:01:06.161873
+2020-07-14 02:49:30,188 : Accepted : 85   Rejected : 0
+2020-07-14 02:49:30,253 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,262 : 316  200 0:01:07.580467
+2020-07-14 02:49:30,262 : Accepted : 86   Rejected : 0
+2020-07-14 02:49:30,304 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,325 : 309  200 0:01:07.758210
+2020-07-14 02:49:30,326 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,326 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,326 : Accepted : 87   Rejected : 0
+2020-07-14 02:49:30,334 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,352 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,360 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,412 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,414 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,430 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,432 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,474 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,482 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,491 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,493 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,495 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,497 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,518 : 317  200 0:01:08.948513
+2020-07-14 02:49:30,519 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,519 : Accepted : 88   Rejected : 0
+2020-07-14 02:49:30,520 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,535 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,538 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,539 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,544 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,545 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,547 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,638 : 322  200 0:01:08.898102
+2020-07-14 02:49:30,638 : Accepted : 89   Rejected : 0
+2020-07-14 02:49:30,672 : 336  200 0:01:08.865291
+2020-07-14 02:49:30,673 : Accepted : 90   Rejected : 0
+2020-07-14 02:49:30,674 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,678 : 343  200 0:01:08.863009
+2020-07-14 02:49:30,679 : Accepted : 91   Rejected : 0
+2020-07-14 02:49:30,689 : 332  200 0:01:11.169972
+2020-07-14 02:49:30,689 : Accepted : 92   Rejected : 0
+2020-07-14 02:49:30,692 : 346  200 0:01:11.162524
+2020-07-14 02:49:30,692 : Accepted : 93   Rejected : 0
+2020-07-14 02:49:30,713 : 305  200 0:01:07.898181
+2020-07-14 02:49:30,713 : Accepted : 94   Rejected : 0
+2020-07-14 02:49:30,717 : 319  200 0:01:11.279450
+2020-07-14 02:49:30,717 : Accepted : 95   Rejected : 0
+2020-07-14 02:49:30,723 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,735 : 303  200 0:01:11.331657
+2020-07-14 02:49:30,735 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,735 : Accepted : 96   Rejected : 0
+2020-07-14 02:49:30,738 : 313  200 0:01:11.317692
+2020-07-14 02:49:30,739 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,739 : Accepted : 97   Rejected : 0
+2020-07-14 02:49:30,810 : 342  200 0:01:08.301265
+2020-07-14 02:49:30,810 : Accepted : 98   Rejected : 0
+2020-07-14 02:49:30,812 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,820 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,825 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,841 : 525  200 0:00:30.554545
+2020-07-14 02:49:30,841 : Accepted : 99   Rejected : 0
+2020-07-14 02:49:30,844 : 258  200 0:01:11.512289
+2020-07-14 02:49:30,844 : Accepted : 100   Rejected : 0
+2020-07-14 02:49:30,850 : 296  200 0:01:11.408929
+2020-07-14 02:49:30,850 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:30,850 : Accepted : 101   Rejected : 0
+2020-07-14 02:49:30,869 : 641  200 0:00:30.235955
+2020-07-14 02:49:30,869 : Accepted : 102   Rejected : 0
+2020-07-14 02:49:30,873 : 628  200 0:00:30.316700
+2020-07-14 02:49:30,873 : Accepted : 103   Rejected : 0
+2020-07-14 02:49:30,876 : 643  200 0:00:30.246195
+2020-07-14 02:49:30,876 : Accepted : 104   Rejected : 0
+2020-07-14 02:49:30,878 : 324  200 0:01:11.260939
+2020-07-14 02:49:30,879 : Accepted : 105   Rejected : 0
+2020-07-14 02:49:30,882 : 578  200 0:00:30.484128
+2020-07-14 02:49:30,884 : 337  200 0:01:11.317605
+2020-07-14 02:49:30,885 : Accepted : 106   Rejected : 0
+2020-07-14 02:49:30,887 : 644  200 0:00:30.266054
+2020-07-14 02:49:30,889 : 323  200 0:01:11.263874
+2020-07-14 02:49:30,891 : 579  200 0:00:30.511390
+2020-07-14 02:49:30,892 : 640  200 0:00:30.308831
+2020-07-14 02:49:30,894 : 629  200 0:00:30.359297
+2020-07-14 02:49:30,898 : 297  200 0:01:05.495766
+2020-07-14 02:49:30,899 : Accepted : 107   Rejected : 0
+2020-07-14 02:49:30,902 : 625  200 0:00:30.369633
+2020-07-14 02:49:30,904 : 333  200 0:01:06.066068
+2020-07-14 02:49:30,905 : 635  200 0:00:30.340981
+2020-07-14 02:49:30,907 : 637  200 0:00:30.280045
+2020-07-14 02:49:30,909 : 620  200 0:00:30.391189
+2020-07-14 02:49:30,909 : Accepted : 108   Rejected : 0
+2020-07-14 02:49:30,910 : 638  200 0:00:30.273163
+2020-07-14 02:49:30,910 : Accepted : 109   Rejected : 0
+2020-07-14 02:49:30,911 : Accepted : 110   Rejected : 0
+2020-07-14 02:49:30,912 : 606  200 0:00:30.370621
+2020-07-14 02:49:30,912 : Accepted : 111   Rejected : 0
+2020-07-14 02:49:30,913 : Accepted : 112   Rejected : 0
+2020-07-14 02:49:30,913 : Accepted : 113   Rejected : 0
+2020-07-14 02:49:30,915 : Accepted : 114   Rejected : 0
+2020-07-14 02:49:30,915 : Accepted : 115   Rejected : 0
+2020-07-14 02:49:30,915 : Accepted : 116   Rejected : 0
+2020-07-14 02:49:30,916 : Accepted : 117   Rejected : 0
+2020-07-14 02:49:30,916 : Accepted : 118   Rejected : 0
+2020-07-14 02:49:30,916 : Accepted : 119   Rejected : 0
+2020-07-14 02:49:30,917 : Accepted : 120   Rejected : 0
+2020-07-14 02:49:31,001 : 619  200 0:00:30.522010
+2020-07-14 02:49:31,001 : Accepted : 121   Rejected : 0
+2020-07-14 02:49:31,038 : Sending request : 910
+2020-07-14 02:49:31,040 : Sending request : 911
+2020-07-14 02:49:31,042 : Sending request : 912
+2020-07-14 02:49:31,045 : Sending request : 913
+2020-07-14 02:49:31,047 : Sending request : 914
+2020-07-14 02:49:31,049 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,050 : Sending request : 915
+2020-07-14 02:49:31,050 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,053 : Sending request : 916
+2020-07-14 02:49:31,054 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,055 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,055 : Sending request : 917
+2020-07-14 02:49:31,061 : Sending request : 918
+2020-07-14 02:49:31,061 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,062 : Sending request : 919
+2020-07-14 02:49:31,064 : Sending request : 920
+2020-07-14 02:49:31,065 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,067 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,067 : Sending request : 921
+2020-07-14 02:49:31,068 : Sending request : 922
+2020-07-14 02:49:31,071 : Sending request : 923
+2020-07-14 02:49:31,073 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,074 : Sending request : 924
+2020-07-14 02:49:31,075 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,076 : Sending request : 925
+2020-07-14 02:49:31,078 : Sending request : 926
+2020-07-14 02:49:31,080 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,083 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,084 : Sending request : 927
+2020-07-14 02:49:31,085 : Sending request : 928
+2020-07-14 02:49:31,086 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,087 : Sending request : 929
+2020-07-14 02:49:31,088 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,089 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,089 : Sending request : 930
+2020-07-14 02:49:31,090 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,091 : Sending request : 931
+2020-07-14 02:49:31,093 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,093 : Sending request : 932
+2020-07-14 02:49:31,095 : Sending request : 933
+2020-07-14 02:49:31,099 : Sending request : 934
+2020-07-14 02:49:31,099 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,101 : Sending request : 935
+2020-07-14 02:49:31,103 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,103 : Sending request : 936
+2020-07-14 02:49:31,104 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,105 : Sending request : 937
+2020-07-14 02:49:31,107 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,108 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,108 : Sending request : 938
+2020-07-14 02:49:31,109 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,110 : Sending request : 939
+2020-07-14 02:49:31,111 : Sending request : 940
+2020-07-14 02:49:31,115 : Sending request : 941
+2020-07-14 02:49:31,116 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,118 : Sending request : 942
+2020-07-14 02:49:31,119 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,120 : Sending request : 943
+2020-07-14 02:49:31,122 : Sending request : 944
+2020-07-14 02:49:31,122 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,127 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,129 : Sending request : 945
+2020-07-14 02:49:31,130 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,132 : Sending request : 946
+2020-07-14 02:49:31,132 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,134 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,135 : Sending request : 947
+2020-07-14 02:49:31,136 : Sending request : 948
+2020-07-14 02:49:31,137 : Sending request : 949
+2020-07-14 02:49:31,139 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,139 : Sending request : 950
+2020-07-14 02:49:31,141 : Sending request : 951
+2020-07-14 02:49:31,143 : Sending request : 952
+2020-07-14 02:49:31,146 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,148 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,148 : Sending request : 953
+2020-07-14 02:49:31,149 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,153 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,154 : Sending request : 954
+2020-07-14 02:49:31,157 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,158 : Sending request : 955
+2020-07-14 02:49:31,158 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,163 : Sending request : 956
+2020-07-14 02:49:31,167 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,168 : Sending request : 957
+2020-07-14 02:49:31,171 : 709  200 0:00:20.345660
+2020-07-14 02:49:31,172 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,173 : Sending request : 958
+2020-07-14 02:49:31,176 : 707  200 0:00:20.345849
+2020-07-14 02:49:31,177 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,183 : 708  200 0:00:20.425812
+2020-07-14 02:49:31,290 : Accepted : 124   Rejected : 0
+2020-07-14 02:49:31,185 : Sending request : 959
+2020-07-14 02:49:31,186 : 636  200 0:00:30.515062
+2020-07-14 02:49:31,190 : 633  200 0:00:30.657916
+2020-07-14 02:49:31,192 : 294  200 0:01:08.121575
+2020-07-14 02:49:31,198 : 706  200 0:00:20.438485
+2020-07-14 02:49:31,201 : 713  200 0:00:20.411739
+2020-07-14 02:49:31,205 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,205 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,206 : Sending request : 960
+2020-07-14 02:49:31,209 : Sending request : 961
+2020-07-14 02:49:31,215 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,218 : Sending request : 962
+2020-07-14 02:49:31,220 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,220 : Sending request : 963
+2020-07-14 02:49:31,415 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,416 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,417 : Sending request : 986
+2020-07-14 02:49:31,420 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,422 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,223 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,223 : Sending request : 964
+2020-07-14 02:49:31,226 : Sending request : 965
+2020-07-14 02:49:31,266 : Sending request : 968
+2020-07-14 02:49:31,268 : Sending request : 969
+2020-07-14 02:49:31,269 : Sending request : 970
+2020-07-14 02:49:31,271 : Sending request : 971
+2020-07-14 02:49:31,273 : Sending request : 972
+2020-07-14 02:49:31,276 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,277 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,277 : Sending request : 973
+2020-07-14 02:49:31,281 : Accepted : 122   Rejected : 0
+2020-07-14 02:49:31,281 : Sending request : 974
+2020-07-14 02:49:31,470 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,282 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,283 : Sending request : 975
+2020-07-14 02:49:31,475 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,286 : Sending request : 976
+2020-07-14 02:49:31,485 : 723  200 0:00:20.766132
+2020-07-14 02:49:31,485 : Accepted : 130   Rejected : 0
+2020-07-14 02:49:31,288 : Sending request : 977
+2020-07-14 02:49:31,290 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,292 : Sending request : 979
+2020-07-14 02:49:31,292 : Accepted : 125   Rejected : 0
+2020-07-14 02:49:31,298 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,298 : Sending request : 980
+2020-07-14 02:49:31,754 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,298 : Accepted : 126   Rejected : 0
+2020-07-14 02:49:31,299 : Accepted : 127   Rejected : 0
+2020-07-14 02:49:31,299 : Sending request : 982
+2020-07-14 02:49:31,300 : Accepted : 128   Rejected : 0
+2020-07-14 02:49:31,300 : Sending request : 983
+2020-07-14 02:49:31,300 : Accepted : 129   Rejected : 0
+2020-07-14 02:49:31,301 : Sending request : 984
+2020-07-14 02:49:31,304 : Sending request : 985
+2020-07-14 02:49:31,314 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,317 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,373 : 731  200 0:00:20.621588
+2020-07-14 02:49:31,407 : 632  200 0:00:30.918727
+2020-07-14 02:49:31,427 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,232 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,256 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,264 : Sending request : 966
+2020-07-14 02:49:31,265 : Sending request : 967
+2020-07-14 02:49:31,266 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,430 : Sending request : 987
+2020-07-14 02:49:31,434 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,435 : Sending request : 988
+2020-07-14 02:49:31,437 : Sending request : 989
+2020-07-14 02:49:31,441 : Sending request : 990
+2020-07-14 02:49:31,443 : Sending request : 991
+2020-07-14 02:49:31,450 : Sending request : 992
+2020-07-14 02:49:31,450 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,451 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,452 : Sending request : 993
+2020-07-14 02:49:31,453 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,454 : Sending request : 994
+2020-07-14 02:49:31,454 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,459 : Sending request : 995
+2020-07-14 02:49:31,467 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,467 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,289 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,289 : Accepted : 123   Rejected : 0
+2020-07-14 02:49:31,289 : Sending request : 978
+2020-07-14 02:49:31,185 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,487 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,488 : Sending request : 996
+2020-07-14 02:49:31,490 : 716  200 0:00:20.836282
+2020-07-14 02:49:31,490 : Sending request : 997
+2020-07-14 02:49:31,491 : Sending request : 998
+2020-07-14 02:49:31,493 : Sending request : 999
+2020-07-14 02:49:31,499 : Sending request : 1000
+2020-07-14 02:49:31,542 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,542 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,548 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,550 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,580 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,583 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,612 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,620 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,742 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,751 : Sending request : 1001
+2020-07-14 02:49:31,752 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,299 : Sending request : 981
+2020-07-14 02:49:31,763 : Sending request : 1002
+2020-07-14 02:49:31,765 : Sending request : 1003
+2020-07-14 02:49:31,768 : Sending request : 1004
+2020-07-14 02:49:31,768 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,771 : Sending request : 1005
+2020-07-14 02:49:31,779 : Sending request : 1006
+2020-07-14 02:49:31,791 : Sending request : 1007
+2020-07-14 02:49:31,791 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,803 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,805 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,806 : Sending request : 1008
+2020-07-14 02:49:31,806 : Accepted : 131   Rejected : 0
+2020-07-14 02:49:31,807 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,814 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,818 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,818 : Accepted : 132   Rejected : 0
+2020-07-14 02:49:31,818 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,819 : Sending request : 1009
+2020-07-14 02:49:31,820 : Sending request : 1010
+2020-07-14 02:49:31,821 : Sending request : 1011
+2020-07-14 02:49:31,822 : Sending request : 1012
+2020-07-14 02:49:31,823 : Sending request : 1013
+2020-07-14 02:49:31,837 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,841 : Sending request : 1014
+2020-07-14 02:49:31,852 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,854 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,854 : Sending request : 1015
+2020-07-14 02:49:31,855 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,856 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,859 : Sending request : 1016
+2020-07-14 02:49:31,862 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,866 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,869 : Sending request : 1017
+2020-07-14 02:49:31,878 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,879 : Sending request : 1018
+2020-07-14 02:49:31,883 : Sending request : 1019
+2020-07-14 02:49:31,885 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,887 : Sending request : 1020
+2020-07-14 02:49:31,894 : Sending request : 1021
+2020-07-14 02:49:31,895 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,897 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,898 : Sending request : 1022
+2020-07-14 02:49:31,899 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,900 : Sending request : 1023
+2020-07-14 02:49:31,903 : Sending request : 1024
+2020-07-14 02:49:31,905 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,917 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,921 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,921 : Sending request : 1025
+2020-07-14 02:49:31,923 : Sending request : 1026
+2020-07-14 02:49:31,923 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,923 : Sending request : 1027
+2020-07-14 02:49:31,923 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,924 : Sending request : 1028
+2020-07-14 02:49:31,924 : Sending request : 1029
+2020-07-14 02:49:31,929 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,930 : Sending request : 1030
+2020-07-14 02:49:31,931 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,931 : Sending request : 1031
+2020-07-14 02:49:31,932 : Sending request : 1032
+2020-07-14 02:49:31,932 : Sending request : 1033
+2020-07-14 02:49:31,933 : Sending request : 1034
+2020-07-14 02:49:31,933 : Sending request : 1035
+2020-07-14 02:49:31,933 : Sending request : 1036
+2020-07-14 02:49:31,934 : Sending request : 1037
+2020-07-14 02:49:31,934 : Sending request : 1038
+2020-07-14 02:49:31,934 : Sending request : 1039
+2020-07-14 02:49:31,935 : Sending request : 1040
+2020-07-14 02:49:31,935 : Sending request : 1041
+2020-07-14 02:49:31,936 : Sending request : 1042
+2020-07-14 02:49:31,937 : Sending request : 1043
+2020-07-14 02:49:31,937 : Sending request : 1044
+2020-07-14 02:49:31,938 : Sending request : 1045
+2020-07-14 02:49:31,938 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,939 : Sending request : 1046
+2020-07-14 02:49:31,941 : Sending request : 1047
+2020-07-14 02:49:31,950 : Sending request : 1048
+2020-07-14 02:49:31,953 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,953 : Accepted : 133   Rejected : 0
+2020-07-14 02:49:31,956 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,965 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,968 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,968 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,970 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,970 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:31,971 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:31,980 : 724  200 0:00:21.500329
+2020-07-14 02:49:31,983 : 762  200 0:00:21.325536
+2020-07-14 02:49:31,984 : 767  200 0:00:21.308661
+2020-07-14 02:49:31,986 : 714  200 0:00:21.550138
+2020-07-14 02:49:31,988 : 764  200 0:00:21.323276
+2020-07-14 02:49:31,996 : 318  200 0:01:12.920182
+2020-07-14 02:49:31,997 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,000 : 739  200 0:00:21.436766
+2020-07-14 02:49:32,001 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,003 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,004 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,006 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,014 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,015 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,017 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,017 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,018 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,022 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,032 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,034 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,037 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,039 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,040 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,042 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,046 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,050 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,056 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,060 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,060 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,063 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,064 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,072 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,072 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,075 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,077 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,083 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,083 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,085 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,088 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,089 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,093 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,094 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,097 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,102 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,103 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,103 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,104 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,106 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,111 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,112 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,116 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,119 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,123 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,123 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,128 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,128 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,129 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,130 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,134 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,137 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,138 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,140 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,142 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:32,147 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,152 : Accepted : 134   Rejected : 0
+2020-07-14 02:49:32,152 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,153 : Accepted : 135   Rejected : 0
+2020-07-14 02:49:32,153 : Accepted : 136   Rejected : 0
+2020-07-14 02:49:32,154 : Accepted : 137   Rejected : 0
+2020-07-14 02:49:32,154 : Accepted : 138   Rejected : 0
+2020-07-14 02:49:32,154 : Accepted : 139   Rejected : 0
+2020-07-14 02:49:32,155 : Accepted : 140   Rejected : 0
+2020-07-14 02:49:32,156 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,182 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,184 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,308 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,310 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,327 : 614  200 0:00:31.845881
+2020-07-14 02:49:32,327 : Accepted : 141   Rejected : 0
+2020-07-14 02:49:32,333 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,336 : 737  200 0:00:21.262047
+2020-07-14 02:49:32,336 : Accepted : 142   Rejected : 0
+2020-07-14 02:49:32,345 : 596  200 0:00:31.933095
+2020-07-14 02:49:32,345 : Accepted : 143   Rejected : 0
+2020-07-14 02:49:32,350 : 589  200 0:00:31.953811
+2020-07-14 02:49:32,352 : 710  200 0:00:21.632157
+2020-07-14 02:49:32,352 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,352 : Accepted : 144   Rejected : 0
+2020-07-14 02:49:32,357 : 608  200 0:00:31.901897
+2020-07-14 02:49:32,358 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,358 : Accepted : 145   Rejected : 0
+2020-07-14 02:49:32,361 : 611  200 0:00:31.895971
+2020-07-14 02:49:32,362 : Accepted : 146   Rejected : 0
+2020-07-14 02:49:32,364 : Accepted : 147   Rejected : 0
+2020-07-14 02:49:32,369 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,374 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,380 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,399 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,412 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,427 : 610  200 0:00:31.913144
+2020-07-14 02:49:32,427 : Accepted : 148   Rejected : 0
+2020-07-14 02:49:32,432 : 603  200 0:00:31.938517
+2020-07-14 02:49:32,432 : Accepted : 149   Rejected : 0
+2020-07-14 02:49:32,495 : 711  200 0:00:21.721003
+2020-07-14 02:49:32,495 : Accepted : 150   Rejected : 0
+2020-07-14 02:49:32,499 : 615  200 0:00:31.906979
+2020-07-14 02:49:32,499 : Accepted : 151   Rejected : 0
+2020-07-14 02:49:32,500 : 598  200 0:00:31.980970
+2020-07-14 02:49:32,502 : 613  200 0:00:31.932402
+2020-07-14 02:49:32,544 : Accepted : 153   Rejected : 0
+2020-07-14 02:49:32,549 : 718  200 0:00:21.719967
+2020-07-14 02:49:32,549 : Accepted : 154   Rejected : 0
+2020-07-14 02:49:32,544 : 616  200 0:00:31.943835
+2020-07-14 02:49:32,963 : Accepted : 155   Rejected : 0
+2020-07-14 02:49:32,973 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,977 : 748  200 0:00:22.398570
+2020-07-14 02:49:32,978 : Accepted : 156   Rejected : 0
+2020-07-14 02:49:32,989 : 597  200 0:00:32.098655
+2020-07-14 02:49:32,989 : Accepted : 157   Rejected : 0
+2020-07-14 02:49:32,995 : 715  200 0:00:21.773156
+2020-07-14 02:49:32,995 : Accepted : 158   Rejected : 0
+2020-07-14 02:49:32,998 : 609  200 0:00:32.056797
+2020-07-14 02:49:32,998 : Accepted : 159   Rejected : 0
+2020-07-14 02:49:33,000 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,005 : 749  200 0:00:22.419068
+2020-07-14 02:49:33,005 : Accepted : 160   Rejected : 0
+2020-07-14 02:49:33,008 : 604  200 0:00:32.090782
+2020-07-14 02:49:33,009 : Accepted : 161   Rejected : 0
+2020-07-14 02:49:33,015 : 703  200 0:00:21.775118
+2020-07-14 02:49:33,015 : Accepted : 162   Rejected : 0
+2020-07-14 02:49:33,024 : 746  200 0:00:21.792821
+2020-07-14 02:49:33,144 : Accepted : 163   Rejected : 0
+2020-07-14 02:49:33,154 : 594  200 0:00:32.338275
+2020-07-14 02:49:33,182 : Accepted : 164   Rejected : 0
+2020-07-14 02:49:33,220 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,562 : 617  200 0:00:31.996839
+2020-07-14 02:49:33,233 : Accepted : 165   Rejected : 0
+2020-07-14 02:49:32,565 : 719  200 0:00:21.753738
+2020-07-14 02:49:32,504 : 618  200 0:00:31.930880
+2020-07-14 02:49:33,199 : 605  200 0:00:32.090538
+2020-07-14 02:49:33,203 : 592  200 0:00:32.129744
+2020-07-14 02:49:33,206 : 742  200 0:00:21.785344
+2020-07-14 02:49:33,246 : Accepted : 170   Rejected : 0
+2020-07-14 02:49:32,508 : Accepted : 152   Rejected : 0
+2020-07-14 02:49:33,236 : Accepted : 166   Rejected : 0
+2020-07-14 02:49:32,698 : 593  200 0:00:32.288190
+2020-07-14 02:49:33,247 : Accepted : 171   Rejected : 0
+2020-07-14 02:49:32,824 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,827 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:32,959 : 725  200 0:00:21.731978
+2020-07-14 02:49:33,027 : 740  200 0:00:21.860360
+2020-07-14 02:49:33,259 : Accepted : 173   Rejected : 0
+2020-07-14 02:49:33,094 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,099 : 730  200 0:00:21.875481
+2020-07-14 02:49:33,109 : 736  200 0:00:21.789022
+2020-07-14 02:49:33,123 : 717  200 0:00:21.725488
+2020-07-14 02:49:33,144 : 722  200 0:00:21.748645
+2020-07-14 02:49:33,182 : 602  200 0:00:32.207666
+2020-07-14 02:49:33,245 : Accepted : 167   Rejected : 0
+2020-07-14 02:49:33,245 : Accepted : 168   Rejected : 0
+2020-07-14 02:49:33,245 : Accepted : 169   Rejected : 0
+2020-07-14 02:49:32,695 : 745  200 0:00:21.816004
+2020-07-14 02:49:32,917 : 607  200 0:00:32.054184
+2020-07-14 02:49:33,257 : 752  200 0:00:22.650590
+2020-07-14 02:49:33,259 : Accepted : 172   Rejected : 0
+2020-07-14 02:49:33,039 : 747  200 0:00:21.803801
+2020-07-14 02:49:33,261 : Accepted : 174   Rejected : 0
+2020-07-14 02:49:33,261 : Accepted : 175   Rejected : 0
+2020-07-14 02:49:33,261 : Accepted : 176   Rejected : 0
+2020-07-14 02:49:33,261 : Accepted : 177   Rejected : 0
+2020-07-14 02:49:33,264 : 750  200 0:00:22.678303
+2020-07-14 02:49:33,265 : Accepted : 178   Rejected : 0
+2020-07-14 02:49:33,277 : 751  200 0:00:22.672615
+2020-07-14 02:49:33,277 : Accepted : 179   Rejected : 0
+2020-07-14 02:49:33,279 : Accepted : 180   Rejected : 0
+2020-07-14 02:49:33,279 : Accepted : 181   Rejected : 0
+2020-07-14 02:49:33,280 : Accepted : 182   Rejected : 0
+2020-07-14 02:49:33,281 : Accepted : 183   Rejected : 0
+2020-07-14 02:49:33,281 : Accepted : 184   Rejected : 0
+2020-07-14 02:49:33,353 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,397 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,643 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,697 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,782 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,885 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:33,941 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:34,080 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:34,134 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:34,190 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:34,609 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:34,681 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:34,937 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:35,232 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:35,406 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:35,590 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:36,350 : 539  200 0:00:35.675410
+2020-07-14 02:49:36,350 : Accepted : 185   Rejected : 0
+2020-07-14 02:49:36,420 : 581  200 0:00:33.846691
+2020-07-14 02:49:36,420 : Accepted : 186   Rejected : 0
+2020-07-14 02:49:36,444 : 584  200 0:00:34.564771
+2020-07-14 02:49:36,445 : Accepted : 187   Rejected : 0
+2020-07-14 02:49:36,547 : 585  200 0:00:33.304400
+2020-07-14 02:49:36,548 : Accepted : 188   Rejected : 0
+2020-07-14 02:49:36,879 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:36,880 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:36,887 : 582  200 0:00:33.656816
+2020-07-14 02:49:36,893 : 754  200 0:00:23.585583
+2020-07-14 02:49:36,897 : 600  200 0:00:33.306121
+2020-07-14 02:49:36,898 : Accepted : 189   Rejected : 0
+2020-07-14 02:49:36,899 : Accepted : 190   Rejected : 0
+2020-07-14 02:49:36,899 : Accepted : 191   Rejected : 0
+2020-07-14 02:49:36,922 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:37,577 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:37,808 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:38,377 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:38,377 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:38,445 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:38,726 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:38,845 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:39,840 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:40,962 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:41,200 : https://hcst.edu.in:443 "GET / HTTP/1.1" 200 None
+2020-07-14 02:49:41,952 : Sending request : 1049
+2020-07-14 02:49:41,955 : Sending request : 1050
+2020-07-14 02:49:41,965 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:41,966 : Starting new HTTPS connection (1): hcst.edu.in:443
+2020-07-14 02:49:43,125 : 552  200 0:00:36.928520
+2020-07-14 02:49:43,125 : Accepted : 192   Rejected : 0
