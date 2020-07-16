@@ -2,6 +2,7 @@ import requests
 import logging
 import threading
 import time
+import fbchat
 
 logging.basicConfig(filename="logs/dumb.log",format='%(asctime)s : %(message)s',filemode='w')
 logger = logging.getLogger()
@@ -15,7 +16,7 @@ def run(i):
 	global reject
 	logger.debug("Sending request : " + str(i))
 	try:
-		res=requests.get('http://jksacademy.com/')
+		res=requests.get('http://cbseresults.nic.in/')
 		accept = accept + 1
 		logger.debug(str(i) + "  " + str(res.status_code) + " " + str(res.elapsed))
 	except:
