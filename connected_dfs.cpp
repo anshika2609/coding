@@ -43,8 +43,7 @@ int main()
 {	
 	ll node,edges,i,x,z,y;
 	cin>>node;
-	ll ans=0;
-	ll arr[node+1];
+	ll arr[node+1],b[node+1];
 	for(i=1;i<=node;i++)
 	{
 		cin>>x;
@@ -56,15 +55,26 @@ int main()
 		vv[x]._pb(y);
 		vv[y]._pb(x);
 	}
-	ll n;       
-	cin>>n;
-	ll size = vv[n].size();
-	for(i=0;i<size;i++)
+	ll ans,j;
+	for(i=1;i<=node;i++)
 	{
-		z=vv[n][i];
-		ans+=arr[z];
+		ans=0;
+		ll size = vv[i].size();
+		for(j=0;j<size;j++)
+		{
+			z=vv[i][j];
+			ans+=arr[z];
+		}
+		b[i]=ans;
 	}
-	cout<<ans+arr[n]<<endl;
+	ll n,q;       
+	cin>>q;
+	while(q--)
+	{
+		
+		cin>>n;
+		cout<<b[n]+arr[n]<<endl;
+	}
 
 	return 0;
 }
