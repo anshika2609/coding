@@ -50,8 +50,6 @@ int main()
 		cin>>x;
 		arr[i]=x;
 	}
-
-	
 	for(i=1;i<node;i++)
 	{
 		cin>>x>>y;
