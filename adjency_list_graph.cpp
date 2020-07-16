@@ -42,6 +42,9 @@ int main()
 		cin>>x>>y;
 		adj[x]._pb(y);
 	}
+
+
+	
 	for(i=1;i<=node;i++)
 	{
 		cout<<"adjancy list of node"<<i<<":";
