@@ -30,32 +30,32 @@ ll mul(ll x,ll y)
  
 /******************************************************************************************************/
 vector< vector<ll> >vv(100005);
-bool vis[100005]; 
+bool vis1[100005];
 ll ans[100005];
 void bfs1(ll node) 
-{ 
-	queue<pair<ll,ll> > qu; 
-	qu.push({ node, 0 }); 
-
-	while (!qu.empty()) { 
-		pair<ll,ll> p = qu.front(); 
-		qu.pop(); 
-		ans[p.first] = p.second; 
-		vis[p.first] = true; 
-		for (ll i=0;i<vv[p.first].size();i++) 
-		{ 
-			if (!vis[vv[i]])
-			{ 
-				qu.push({ vv[i], p.first }); 
-			} 
-		} 
-	} 
+{
+   queue<pair<ll,ll> > qu; 
+   qu.push({ node, 0 }); 
+  
+   while (!qu.empty()) 
+   { 
+    	pair<ll,ll> p = qu.front(); 
+        qu.pop(); 
+        ans[p.first] = p.second; 
+        vis1[p.first] = true; 
+  
+        for (ll child : vv[p.first]) { 
+            if (!vis1[child]) { 
+                qu.push({ child, p.first }); 
+            } 
+        } 
+    } 
 } 
-ll bfs(ll n,ll arr[],ll ans[])
+/*ll bfs(ll n,ll arr[])
 {
 	queue<ll>q;
 	bool vis[100005]={false};
-	ll ans1=0;
+	ll ans=0;
 	ll i,z;
 	q.push(n);
 	vis[n]=true;
@@ -66,23 +66,24 @@ ll bfs(ll n,ll arr[],ll ans[])
 
 		for(i=0;i<vv[p].size();i++)
 		{
-			if(vis[vv[p][i]] == false && ans[p]!=vv[p][i])
+			if(vis[vv[p][i]] == false)
 			{
 				q.push(vv[p][i]);
 				vis[vv[p][i]]= true;
 				z=vv[p][i];
-				ans1+=arr[z];
+				ans+=arr[z];
 			}
 		}
 	}
-	return ans1+arr[n];
+	return ans+arr[n];
 
 }
+*/
 int main()
 {	
-	ll nodes,q1,x,y,i,n;
+	ll nodes,edges,q1,x,y,i,n;
 	cin>>nodes;
-	ll arr[nodes+1],b[nodes+1];
+	ll arr[nodes+1];
 	for(i=1;i<=nodes;i++)
 		cin>>arr[i];
 	for(i=1;i<nodes;i++)
@@ -91,15 +92,14 @@ int main()
 		vv[x]._pb(y);
 		vv[y]._pb(x);
 	}
-	bfs1(1);
-	ll c[100005];
-	for(i=1;i<=n;i++)
-		c[i]=bfs(i,arr,ans);
 	cin>>q1;
 	while(q1--)
 	{
 		cin>>n;
-		cout<<c[n]<<endl;
+		bfs1(0);
+		for(i=1;i<=nodes;i++)
+			cout<<ans[i]<<endl;
+		//cout<<bfs(n,arr);
 	}
 
 	return 0;
