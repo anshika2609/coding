@@ -38,23 +38,18 @@ int main()
 	{
 		ll n,i;
 		s(n);
-		ll ans=0;
-		vector<ll>vv(n);
-		for(i=0;i<n;i++)
+		ll ans=0,vv[n+1];
+		for(i=1;i<=n;i++)
 			s(vv[i]);
 
-		for(i=1;i<n;i++)
-		{
-			if(vv[i] >= vv[i-1])
-				++ans;
-			else if(ans>=1 && (((vv[i]>=vv[i-1]) && (vv[i]<=vv[i+1]) || (vv[i]>=vv[i-1]))))
-				++ans;
-			else if(ans>=2 && (vv[i]<=vv[i-1]))
-				++ans;
-			else
-				ans=0;
-		}
-		cout<<n-(ans+1)<<endl;
+		ll k=n;
+		while(k>1 && vv[k]<=vv[k-1])
+			--k;
+		while(k>1 && vv[k]>=vv[k-1])
+			--k;
+		cout<<k-1<<endl;
+
+		
 
 
 	}
