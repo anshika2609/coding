@@ -30,15 +30,15 @@ ll mul(ll x,ll y)
  
 /******************************************************************************************************/
 
-ll vis[100000] = {0};
-vector<ll>vv[100000];
+bool vis[100005];
+vector<ll>vv[100005];
 void dfs(ll node)
 {
-	vis[node]=1;
+	vis[node]=true;
 	for(ll i=0;i<vv[node].size();i++)
 	{
 		ll child = vv[node][i];
-		if(!vis[child])
+		if(vis[child]==false)
 			dfs(child);
 	}
 } 
@@ -46,19 +46,23 @@ int main()
 {	
 	ll n,e,i,a,b;
 	s(n),s(e);
-	vector<ll>vv[n+1];
+//	vector<ll>vv[n+1];
 	while(e--)
 	{
 		cin>>a>>b;
 		vv[a]._pb(b);
 		vv[b]._pb(a);
 	}
+	memset(vis,false,sizeof(vis));
 	ll cc_count =0;
 	for(i=1;i<=n;i++)
 	{
-		if(!vis[i])
+		if(vis[i]==false)
+		{
 			dfs(i);
-		cc_count++;
+			cc_count++;
+		//	cout<<cc_count<<endl;
+		}
 	}
 
 
