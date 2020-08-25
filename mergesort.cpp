@@ -29,38 +29,72 @@ ll mul(ll x,ll y)
 };
  
 /******************************************************************************************************/
-
-void mergesort(int arr[],int start,int end)
+void merge(ll arr[],ll low,ll mid,ll high)
 {
-	if(start<end)
+	ll n1,n2,i,j,k;
+	n1=mid-low+1;
+	n2=high-mid;
+	ll left[n1],right[n2];
+	for(i=0;i<n1;i++)
+		left[i]=arr[low+i];
+
+	for(j=0;j<n2;j++)
+		right[j]=arr[mid+j+1];
+
+//	left[i]=9999;
+//	right[i]=9999;
+
+	i=0,j=0,k=1;
+	while(i<n1 && j<n2)
 	{
-		
+		if(left[i]<=right[j])
+		{
+			arr[k]=left[i];
+			i++;
+		}
+		else
+		{
+			arr[k]=right[j];
+			j++;
+		}
+		k++;
 	}
-} 
+	while(i<n1)
+	{
+		arr[k]=left[i];
+		i++;
+		k++;
+	}
+	while(j<n2)
+	{
+		arr[k]=right[j];
+		j++;
+		k++;
+	}
+
+}
+void merge_sort(ll arr[],ll low,ll high)
+{
+	if(low<high)
+	{
+		ll mid=(low+high)/2;
+		merge_sort(arr,low,mid);
+		merge_sort(arr,mid+1,high);
+		merge(arr,low,mid,high);
+	}
+}
 int main()
-{	
+{
 	ll n,i;
 	cin>>n;
 	ll arr[n+1];
 	for(i=0;i<n;i++)
 		cin>>arr[i];
 
-	mergesort(arr,0,n-1);
-
-
+	merge_sort(arr, 0, n-1);
+	cout<<"printed array"<<endl;
+	for(i=0;i<n;i++)
+		cout<<arr[i]<<" ";
+	cout<<endl;	
 	return 0;
 }
-
-
-/* merge sort is based upon divide and conquer, unsorted list is divide into n sublists, each having one element 
- 12 8 24 17 33 71 10 48 4 21 6
-
- 8 12   17 24    33 71    10 48    4 21    6
-
- 8 12 17 24    10 33 48 71      4 6 21
-
- 8 10 12 17 24 33 48 71        4 6 21
-
- 4 8 10 12 17 21 24 33 48 71
-
- */

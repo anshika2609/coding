@@ -1,30 +1,20 @@
-<<<<<<< HEAD
-t=int(input())
-for i in range(t):
-    x,y,z=map(int,input().split())
-    m=abs(x-z)
-    p=abs(y-z)
-    if m>p:
-        print("Cat B")
-    elif p==m:
-        print("Mouse C")
-    else:
-        print("Cat A")
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int n,k,i;
+    cin>>n;
+    int arr[n+1],m=0;
+    for(i=0;i<n;i++)
+    {
+        cin>>arr[i];
+        m=max(m,arr[i]);
+    }
+    if(m>k)
+        cout<<m-k<<endl;
+    else
+        cout<<0<<endl;
 
-
-=======
-t=int(input())
-for i in range(t):
-    x,y,z=map(int,input().split())
-    m=abs(x-z)
-    p=abs(y-z)
-    if m>p:
-        print("Cat B")
-    elif p==m:
-        print("Mouse C")
-    else:
-        print("Cat A")
-
-
->>>>>>> 985aff7a348e34489774a7f70143f686a4476ad0
-//https://www.hackerrank.com/challenges/cats-and-a-mouse/problem//////
+    
+    return 0;
+}
