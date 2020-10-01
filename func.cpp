@@ -1,7 +1,7 @@
 
 /* * * * * * * * * * * * * * 		
 #                          *
-#  @Author ANSHIKA AGRAWAL  *
+#  @Author  AYUSH AGRAWAL  *
 #                          *
 # * * * * * * * * * * * * */
  
@@ -31,9 +31,19 @@ ll mul(ll x,ll y)
 };
  
 /******************************************************************************************************/
- 
+
+int func(int k)
+{
+	if(k==1)
+		cout<<1<<endl;
+	else
+	{
+		cout<<k<<" ";
+		func(k-1);
+	}
+}
 int main()
 {	
-	cout<<2+3<<endl;
+    func(100);
 	return 0;
 }
