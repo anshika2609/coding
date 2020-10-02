@@ -1,8 +1,10 @@
+
 /* * * * * * * * * * * * * * 		
 #                          *
-# @Author  ANSHIKA AGRAWAL *
+#  @Author  ANSHIKA AGRAWAL  *
 #                          *
 # * * * * * * * * * * * * */
+ 
  
 #include<bits/stdc++.h>
 using namespace std;
@@ -29,72 +31,56 @@ ll mul(ll x,ll y)
 };
  
 /******************************************************************************************************/
-void merge(ll arr[],ll low,ll mid,ll high)
+int merge(int arr[],int low,int mid,int high)
 {
-	ll n1,n2,i,j,k;
-	n1=mid-low+1;
-	n2=high-mid;
-	ll left[n1],right[n2];
-	for(i=0;i<n1;i++)
-		left[i]=arr[low+i];
-
-	for(j=0;j<n2;j++)
-		right[j]=arr[mid+j+1];
-
-//	left[i]=9999;
-//	right[i]=9999;
-
-	i=0,j=0,k=1;
-	while(i<n1 && j<n2)
+	int i=low,j=mid+1,k=0,b[high-low+1];
+	while(i<=mid && j<=high)
 	{
-		if(left[i]<=right[j])
+		if(arr[i]<=arr[j])
 		{
-			arr[k]=left[i];
-			i++;
+			b[k]=arr[i];
+			i++;k++;
 		}
 		else
 		{
-			arr[k]=right[j];
-			j++;
+			b[k]=arr[j];
+			j++;k++;
 		}
-		k++;
 	}
-	while(i<n1)
+	while(i<=mid)
 	{
-		arr[k]=left[i];
-		i++;
-		k++;
+		b[k]=arr[i];
+		i++;k++;
 	}
-	while(j<n2)
+	while(j<=high)
 	{
-		arr[k]=right[j];
-		j++;
-		k++;
+		b[k]=arr[j];
+		j++;k++;
 	}
+	for(i=low;i<=high;i++)
+		arr[i]=b[i-low];
 
 }
-void merge_sort(ll arr[],ll low,ll high)
+void merge_sort(int arr[],int low,int high)
 {
-	if(low<high)
-	{
-		ll mid=(low+high)/2;
+	if(low<high){
+		int mid=(low+high)/2;
 		merge_sort(arr,low,mid);
 		merge_sort(arr,mid+1,high);
 		merge(arr,low,mid,high);
 	}
 }
 int main()
-{
-	ll n,i;
+{	
+	int i,n,low;
 	cin>>n;
-	ll arr[n+1];
+	int arr[n+1];
 	for(i=0;i<n;i++)
 		cin>>arr[i];
+	merge_sort(arr,0,n-1);
 
-	merge_sort(arr, 0, n-1);
-	cout<<"printed array"<<endl;
 	for(i=0;i<n;i++)
 		cout<<arr[i]<<" ";
-	cout<<endl;	
+
 	return 0;
 }
