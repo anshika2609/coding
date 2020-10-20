@@ -1,104 +1,30 @@
-<<<<<<< HEAD
-/* * * * * * * * * * * * * * 		
-#                          *
-# @Author  ANSHIKA AGRAWAL *
-#                          *
-# * * * * * * * * * * * * */
- 
 #include<bits/stdc++.h>
 using namespace std;
-#define ll long long int
-#define MOD 1000000007
-#define M(x) (x%MOD + MOD)%MOD
-#define _pb push_back
-#define _mp make_pair
-#define ff first
-#define ss second
-#define s(x) scanf("%lld",&x)
- 
-ll mul(ll x,ll y)
-{ ll ans=1;
- 
-  while(y>0)
-  { if(y&1)
-	ans=(ans*x)%MOD;
-	y/=2;
-	x=(x*x)%MOD;
-  }
- 
-  return ans;
-};
- 
-/******************************************************************************************************/
- 
 int main()
-{	
-	ll t;
+{
+	int t;
 	cin>>t;
 	while(t--)
 	{
-		ll n,i;
+		int n,k=0,ans=0,z;
 		cin>>n;
-		ll a[n+1];
-		for(i=0;i<n;i++)
-			cin>>a[i];
-
-		if((a[0]+a[1]<=a[n-1]))
-			cout<<1<<" "<<2<<" "<<n<<endl;
-		else
-			cout<<-1<<endl;
+		z=n%10;
+		while(n!=0)
+		{
+			n=n/10;
+			++k;
+		}
+		//cout<<k<<" ";
+		ans = 10*(z-1);
+		if(k==1)
+			cout<<ans+1<<endl;
+		if(k==2)
+			cout<<ans+3<<endl;
+		if(k==3)
+			cout<<ans+6<<endl;
+		if(k==4)
+			cout<<ans+10<<endl;
+		//cout<<ans<<endl;
 	}
 	return 0;
-=======
-/* * * * * * * * * * * * * * 		
-#                          *
-# @Author  ANSHIKA AGRAWAL *
-#                          *
-# * * * * * * * * * * * * */
- 
-#include<bits/stdc++.h>
-using namespace std;
-#define ll long long int
-#define MOD 1000000007
-#define M(x) (x%MOD + MOD)%MOD
-#define _pb push_back
-#define _mp make_pair
-#define ff first
-#define ss second
-#define s(x) scanf("%lld",&x)
- 
-ll mul(ll x,ll y)
-{ ll ans=1;
- 
-  while(y>0)
-  { if(y&1)
-	ans=(ans*x)%MOD;
-	y/=2;
-	x=(x*x)%MOD;
-  }
- 
-  return ans;
-};
- 
-/******************************************************************************************************/
- 
-int main()
-{	
-	ll t;
-	cin>>t;
-	while(t--)
-	{
-		ll n,i;
-		cin>>n;
-		ll a[n+1];
-		for(i=0;i<n;i++)
-			cin>>a[i];
-
-		if((a[0]+a[1]<=a[n-1]))
-			cout<<1<<" "<<2<<" "<<n<<endl;
-		else
-			cout<<-1<<endl;
-	}
-	return 0;
->>>>>>> 42c870e614a7c348e7d82037b4ca0a52682c9653
 }
