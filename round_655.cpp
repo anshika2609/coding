@@ -37,7 +37,7 @@ int main()
 	while(t--)
 	{
 		ll n,i;
-		s(n);
+		s(n);*************
 		if(n%2==0)
 		{
 			for(i=1;i<=n;i+=2)
