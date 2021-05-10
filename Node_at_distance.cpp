@@ -13,7 +13,8 @@ void leafsAtDistance(Node *root, vector<Node*> &path, int k, set<Node*> &ans)
                 // cout<<root->data<<" "<<size-1-k<<"\n";
                 ans.insert(path[size-1-k]);
             }
-    } else
+    } 
+    else
     {
         leafsAtDistance(root->left, path, k, ans);
         leafsAtDistance(root->right, path, k, ans);
