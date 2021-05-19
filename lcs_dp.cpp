@@ -1,3 +1,4 @@
+
 /* * * * * * * * * * * * * * 		
 #                          *
 #  @Author ANSHIKA AGRAWAL *
@@ -31,31 +32,34 @@ ll mul(ll x,ll y)
  
 /******************************************************************************************************/
 
-ll power(ll x,unsigned int y, ll z)
-{
-	int ans=1;
-	x = x%z;
-	if(x==0)
-		return 0;
-	while(y>0)
-	{
-		if(y&1)
-			ans = (ans*x)%z;
+void lcs(int x, int y, string s1, string s2)
+{   
+       int dp[x+1][y+1];
+       for(int i=0;i<=x;i++)
+           for(int j=0;j<=y;j++)
+           {
+               if(i==0 || j==0)
+                    dp[i][j] = 0;
+            
+               else if(s1[i-1]==s2[j-1])
+                    dp[i][j] = 1 + dp[i-1][j-1];
+                else
+                    dp[i][j] = max(dp[i-1][j],dp[i][j-1]);
+            }
+       for(int i=0;i<=x;i++){
+       		for(int j=0;j<=y;j++){
+       			cout<<dp[i][j]<<" ";
+       		}
+       		cout<<endl;}
+}
 
-		y = y>>1;
-		x = (x*x)%z;
-	}
-	return ans;
-} 
 int main()
 {	
-	ll t;
-	cin>>t;
-	while(t--)
-	{
-		ll n,p=2,z=1000000007;
-		cin>>n;
-		cout<<power(p,n-1,z)<<endl;
-		
-	}
+	string s1,s2;
+	cin>>s1>>s2;
+	int x = s1.length();
+	int y = s2.length();
+	lcs(x,y,s1,s2);
+
 	return 0;
+}

@@ -1,3 +1,4 @@
+
 /* * * * * * * * * * * * * * 		
 #                          *
 #  @Author ANSHIKA AGRAWAL *
@@ -30,32 +31,28 @@ ll mul(ll x,ll y)
 };
  
 /******************************************************************************************************/
-
-ll power(ll x,unsigned int y, ll z)
-{
-	int ans=1;
-	x = x%z;
-	if(x==0)
-		return 0;
-	while(y>0)
-	{
-		if(y&1)
-			ans = (ans*x)%z;
-
-		y = y>>1;
-		x = (x*x)%z;
-	}
-	return ans;
-} 
+ 
 int main()
 {	
-	ll t;
-	cin>>t;
-	while(t--)
-	{
-		ll n,p=2,z=1000000007;
-		cin>>n;
-		cout<<power(p,n-1,z)<<endl;
-		
-	}
+	int i,n;
+	cin>>n;
+	int a[n+1];
+	for(i=0;i<n;i++)
+		cin>>a[i];
+	int c_0=0, c_1=0;
+        for(i=0;i<n;i++)
+        {
+            if(a[i]==0)
+                c_0++;
+            if(a[i]==1)
+                c_1++;
+        }
+        for(i=0;i<c_0;i++)
+            cout<<"0"<<" ";
+        for(i=0;i<c_1;i++)
+            cout<<"1"<<" ";
+        for(i=0;i<n-(c_0+c_1);i++)
+            cout<<"2"<<" ";
+    
 	return 0;
+}

@@ -31,33 +31,26 @@ ll mul(ll x,ll y)
 };
  
 /******************************************************************************************************/
-
-ll power(ll x,unsigned int y, ll z)
-{
-	int ans=1;
-	x = x%z;
-	if(x==0)
-		return 0;
-	while(y>0)
-	{
-		if(y&1)
-			ans = (ans*x)%z;
-
-		y = y>>1;
-		x = (x*x)%z;
-	}
-	return ans;
-} 
+ 
 int main()
 {	
 	ll t;
 	cin>>t;
 	while(t--)
 	{
-		ll n,p=2,z=1000000007;
-		cin>>n;
-		cout<<power(p,n-1,z)<<endl;
-		
+		ll n,m,ans=0,p;
+		cin>>n>>m;
+		ll arr[n+1];
+		for(int i=0;i<=n;i++)
+			arr[i]=1;
+		for(int i=2;i<=n;i++)
+		{
+			p = m%i;
+			ans+=arr[p];
+			for(int j=p;j<=n;j+=i)
+				arr[j]++;
+		}
+		cout<<ans<<endl;
 	}
 	return 0;
 }
