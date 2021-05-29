@@ -1,8 +1,10 @@
+
 /* * * * * * * * * * * * * * 		
 #                          *
-# @Author  ANSHIKA AGRAWAL *
+#  @Author ANSHIKA AGRAWAL *
 #                          *
 # * * * * * * * * * * * * */
+ 
  
 #include<bits/stdc++.h>
 using namespace std;
@@ -29,58 +31,31 @@ ll mul(ll x,ll y)
 };
  
 /******************************************************************************************************/
-vector<int>vv(100005);
+ 
 int main()
 {	
-	int n,i,counta=0,countb=0,p,s;
-	cin>>n;
-	string str;
-	cin>>str;
-	for(i=0;str[i]!='\0';i++)
-	{
-		if(str[i]=='A')
-		{
-			vv._pb(i);
-			++counta;
-		}
-		if(str[i]=='B')
-		{
-			vv._pb(i);
-			++countb;
-		}
-	}
-	if(str[vv[0]]=='A' && vv[0]>0)
-			counta+=vv[0];
-
-	for(i=1;i<vv.size();i++)
-	{
-		p=vv[i]-vv[i-1];
-		s=p-1;
-		if(p>1)
-		{
-			if(str[vv[i]]=='A' && str[vv[i-1]]=='A')
-				counta+=(p-1);
-			if(str[vv[i]]=='B' && str[vv[i-1]]=='B')
-				countb+=(p-1);
-			if(str[vv[i]]=='A' && str[vv[i-1]]=='B')
-			{
-				if(s>=2)
-				{
-					counta+=s/2;
-					countb+=s/2;
-				}
-			}
-
-		}
-
-	}
-	cout<<counta<<" "<<countb<<endl;
-	if(counta>countb)
-		cout<<"A"<<endl;
-	else if(counta<countb)
-		cout<<"B"<<endl;
-	else
-		cout<<"Coalition government"<<endl;
+    ll t;
+    cin>>t;
+    while(t--)
+    {
+    	ll n;
+    	cin>>n;
+    	ll f=0;
+    	while(n>0)
+    	{
+	    	if(n%11==0 || n%111==0)
+	    	{
+	    		f=1;
+	    		break;
+	    	}
+	    	n-=111;
+	    }
+    
+    if(f)
+    	cout<<"YES"<<endl;
+    else
+    	cout<<"NO"<<endl;
+    }
 
 	return 0;
 }
