@@ -1,72 +1,34 @@
-/* * * * * * * * * * * * * * 		
-#                          *
-# @Author  ANSHIKA AGRAWAL *
-#                          *
-# * * * * * * * * * * * * */
- 
 #include<bits/stdc++.h>
 using namespace std;
-#define ll long long int
-#define MOD 1000000007
-#define M(x) (x%MOD + MOD)%MOD
-#define _pb push_back
-#define _mp make_pair
-#define ff first
-#define ss second
-#define s(x) scanf("%lld",&x)
- 
-ll mul(ll x,ll y)
-{ ll ans=1;
- 
-  while(y>0)
-  { if(y&1)
-	ans=(ans*x)%MOD;
-	y/=2;
-	x=(x*x)%MOD;
-  }
- 
-  return ans;
-};
- 
-/******************************************************************************************************/
-
-bool vis[100005];
-vector<ll>vv[100005];
-void dfs(ll node)
+vector< vector<int> >vv(10005); 
+int vis[100005]={0};
+void dfs(int src)
 {
-	vis[node]=true;
-	for(ll i=0;i<vv[node].size();i++)
+	vis[src]=1;
+	for(int i=0;i<vv[src].size();i++)
 	{
-		ll child = vv[node][i];
-		if(vis[child]==false)
-			dfs(child);
+		if(vis[vv[src][i]]==0)
+			dfs(vv[src][i]);
 	}
-} 
+}
 int main()
-{	
-	ll n,e,i,a,b;
-	s(n),s(e);
-//	vector<ll>vv[n+1];
-	while(e--)
+{
+	int n,m,cc_count=0;
+	cin>>n>>m;
+	for(int i=1;i<=m;i++)
 	{
-		cin>>a>>b;
-		vv[a]._pb(b);
-		vv[b]._pb(a);
+		int x,y;
+		cin>>x>>y;
+		vv[x].push_back(y);
+		vv[y].push_back(x);
 	}
-	memset(vis,false,sizeof(vis));
-	ll cc_count =0;
-	for(i=1;i<=n;i++)
+	for(int i=1;i<=n;i++)
 	{
-		if(vis[i]==false)
+		if(vis[i]==0)
 		{
 			dfs(i);
 			cc_count++;
-		//	cout<<cc_count<<endl;
 		}
 	}
-
-
 	cout<<cc_count<<endl;
-
-	return 0;
 }
