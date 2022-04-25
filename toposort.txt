@@ -1,0 +1,36 @@
+linear ordering of n vertices in which if there is an edge btw u and v. then u should appears before v.
+toposort only with an directed graph.
+toosort not possible with a cyclic graph.
+Possible only with DAG->directed acyclic graph.
+
+Toposort impelemented with two ways->
+DFS(Vector/stack)
+Kahn algorithm(BFS)
+
+DFS:-
+opposite of stack willbe the answer.
+void toposorthelper(int node,stack<int> &st){
+vis[node]=1;
+for(auto it : adj[node])
+{
+	if(!vis[it]){
+	toposorthelper(it,st);}
+}
+st.push(node);              
+		
+}
+
+void toposort(){
+stack<int>st;
+for(int i=;i<=n;i++){
+if(vis[i]==false){
+toposorthelper(i,st);
+}
+}
+while(!st.empty()){
+cout<<st.top();
+st.pop();
+}
+}
+
+
